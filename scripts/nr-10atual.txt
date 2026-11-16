@@ -1,0 +1,453 @@
+NR10 – SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE
+
+MEDIDAS DE CONTROLE E COMPETÊNCIA DE PESSOAS
+
+SUMÁRIO
+1. MEDIDAS DE CONTROLE E COMPETÊNCIA DE PESSOAS.............................2
+2. DEFINIÇÕES ........................................................................................................7
+3. REFERÊNCIAS ................................................................................................... 11
+
+INDÍCE DE FIGURAS
+Figura 1 - Sistema Elétrico de Potência e Sistema Elétrico de Consumo ................. 2
+Figura 2 – Competência de Pessoas e exemplos de aplicações .............................. 4
+
+[2]
+
+NR10 – SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE
+1. MEDIDAS DE CONTROLE E COMPETÊNCIA DE PESSOAS
+A Norma Regulamentadora NR-10 – Segurança em Instalações e Serviços em
+Eletricidade, estabelece os requisitos e condições mínimas objetivando a
+implementação de medidas de controle e sistemas preventivos, de forma a garantir
+a segurança dos trabalhadores que direta, ou indiretamente, interajam em
+instalações elétricas e serviços com eletricidade. Para definirmos medidas de
+controle e entendermos competência de pessoas, é fundamental o correto
+entendimento do item 10.1.2 da NR10, onde:
+10.1.2
+
+da
+
+NR10
+
+–
+
+(http://trabalho.gov.br/images/Documentos/SST/NR/NR10.pdf) Esta NR se aplica
+às fases de geração, transmissão, distribuição e consumo, incluindo as etapas de
+projeto, construção, montagem, operação, manutenção das instalações elétricas e
+quaisquer trabalhos realizados nas suas proximidades, observando-se as normas
+técnicas oficiais estabelecidas pelos órgãos competentes e, na ausência ou
+omissão destas, as normas internacionais cabíveis.
+
+Figura 1 - Sistema Elétrico de Potência e Sistema Elétrico de Consumo
+
+[3]
+
+Fonte: Próprio Autor
+A Norma Regulamentadora NR-10 – Segurança em Instalações e Serviços em
+Eletricidade, estabelece que somente profissionais autorizados podem realizar
+atividades em instalações elétricas. Ocorre que no cotidiano das empresas, várias
+pessoas, para diversas atividades, têm de adentrar locais de serviços elétricos, ou
+mesmo utilizarem equipamentos elétricos, sendo que as medidas de controle a
+serem adotadas para esses diversos personagens têm sido uma das principais
+dificuldades para as empresas, visto a interpretação errada da NR-10, fazendo com
+que as empresas, os profissionais do SESMT e profissionais habilitados
+responsáveis
+
+pela
+
+autorização
+
+dessas
+
+pessoas
+
+fiquem
+
+vulneráveis
+
+à
+
+responsabilização civil e criminal em caso de acidentes do trabalho.
+Dessa forma, para que seja definido um processo eficaz de autorização,
+primeiramente é necessário que conceitos básicos referentes a medidas de
+proteção sejam interpretados corretamente considerando-se as premissas da NR10 e, intrinsecamente, as normas técnicas da ABNT.
+Com o objetivo de esclarecer as premissas estabelecidas pela Legislação, bem
+como auxiliar os profissionais responsáveis pela autorização de pessoas para
+trabalhos em locais elétricos, trataremos neste texto sobre as medidas de controle
+a serem adotadas conforme competência de pessoas estabelecidas pelas normas
+técnicas NBR 5410 – Instalações Elétricas de Baixa Tensão e NBR 14039 –
+Instalações Elétricas de Media Tensão, considerando a proteção ao risco de
+choque elétrico, sendo que o processo de autorização dessas pessoas será tratado
+em outra oportunidade.
+
+[4]
+
+Quando falamos de proteção de pessoas ao risco de choque elétrico, duas
+questões básicas devem ser consideradas: tipo de pessoa exposta e característica
+física da instalação elétrica.
+Dessa maneira, para tratarmos do tema medidas de controle de forma
+adequada, primeiramente torna-se necessário o entendimento correto de conceitos
+básicos intrínsecos, estabelecidos pela NR-10 e normas técnicas da ABNT,
+especialmente as NBR 5410 e NBR 14039.
+Assim, nesta primeira parte do texto, abordaremos parâmetros técnicos
+estabelecidos
+
+pelas
+
+normas
+
+técnicas,
+
+para
+
+que
+
+seja
+
+possível
+
+definir-se
+
+corretamente as medidas de controle a serem adotadas para proteção das pessoas
+ao risco de choque elétrico, atendendo aos requisitos legais, e aplicáveis de forma
+exequível.
+Influências Externas
+De modo resumido, são variáveis que devem ser consideradas na definição e
+seleção de medidas de proteção para segurança das pessoas e desempenho dos
+componentes da instalação elétrica, devendo ser consideradas na concepção e
+construção das instalações elétricas, ou seja, definidas no projeto.
+Classificação das Influências Externas
+Cada condição de influência externa é designada por um código que
+compreende sempre um grupo de duas letras maiúsculas e um número, como
+descrito a seguir:
+a) a primeira letra indica a categoria geral da influência externa:
+A = meio ambiente;
+B = utilização;
+C = construção das edificações;
+b) a segunda letra (A, B, C, ...) indica a natureza da influência externa;
+c) o número (1, 2, 3, ...) indica a classe de cada influência externa.
+
+[5]
+
+Figura 2 – Competência de Pessoas e exemplos de aplicações
+
+Fonte: Recorte Adaptado da NBR 5410 e NBR 14039
+Parâmetros das influências externas
+Condições ambientais independentes da natureza das instalações e dos locais
+considerados, relacionados a fatores exteriores provenientes da atmosfera, do
+clima, da situação e de outras condições da região onde se encontra a instalação;
+compreendem 14 parâmetros:
+AA: temperatura ambiente; AB: umidade do ar; AC: altitude, AD: presença de
+água, AE: presença de corpos sólidos, AF: presença de substâncias, corrosivas ou
+solventes, AG: choques mecânicos, AH: vibrações, AJ: outras solicitações
+mecânicas, AK: presença de flora e mofo, AL: presença de fauna, AM: influências
+eletromagnéticas, eletrostáticas ou ionizantes, NA: radiações solar es e AQ: raios.
+As condições de utilização dos locais onde se situa a instalação compreendem
+cinco parâmetros:
+• BA: Competência das pessoas;
+• BB: Resistência elétrica do corpo humano;
+• BC: Contato das pessoas com o potencial de terra;
+• BD: Fuga das pessoas em emergências;
+• BE: Natureza dos materiais processados ou armazenados.
+A construção das edificações, relacionadas com a construção de prédios, isto
+é, sua estrutura e os materiais utilizados compreendem dois parâmetros:
+
+[6]
+
+CA: materiais de construção e CB: estrutura dos prédios.
+Competências de pessoas segundo ABNT
+Conforme apresentado anteriormente, na influência externa caracterizada
+como Condições de Utilização, temos o parâmetro BA - Competência das Pessoas,
+que será o foco desta análise, sendo descrito nas normas técnicas da seguinte
+forma:
+Pessoas BA1 – Comuns (ABNT) x pessoas inadvertidas (NR-10)
+O conceito de pessoas Comuns BA1, conforme ABNT, equivale ao conceito de
+pessoa inadvertida pela NR-10, sendo aqueles que não realizam atividades em
+circuitos elétricos, mas ou usufruem da eletricidade ou realizam atividades em
+locais ou equipamentos com a presença do agente eletricidade, sendo que para
+esse grupo de pessoas, esse agente deve “ser controlado” por medidas de
+segurança consideradas como “Proteção Total”, ou seja, o controle do risco não
+pode depender do conhecimento da pessoa BA1, e sim a instalação elétrica deve
+ser construída de forma segura, não permitindo que a pessoa adentre
+acidentalmente à zona controlada (vide anexo II – NR-10) de instalações elétricas
+energizadas mesmo em BT, sendo que na NR-10 essa condição está evidenciada
+no item 10.6.1.2, onde define que operações elementares de liga e desliga, em
+circuitos elétricos de BT, podem ser realizadas por pessoas inadvertidas, desde
+que
+
+a
+
+instalação
+
+elétrica
+
+seja
+
+construída
+
+de
+
+forma
+
+segura.
+
+http://trabalho.gov.br/images/Documentos/SST/NR/NR10.pdf.
+
+NOTA. Para tratarmos do tema medidas de controle de forma adequada,
+primeiramente torna-se necessário o entendimento correto de conceitos básicos
+intrínsecos, estabelecidos pela NR-10 e normas técnicas da ABNT, especialmente
+as NBR 5410 e NBR 14039
+Como exemplo, observar as disposições da NBR 5410 e NBR 14039 quanto ao
+Grau de Proteção (IP) frente às influências externas existentes, incluindo
+competência de pessoas, que será tratada oportunamente. Dentro desse grupo de
+pessoas comuns, observando o disposto na NR-10, podemos considerar ainda
+
+[7]
+
+operadores de máquinas e de processos, e outras pessoas, que dentro de suas
+atividades operam dispositivos elétricos como botoeiras, interruptores etc.
+Também podemos enquadrar como “pessoas comuns - BA1” alguns
+personagens que fazem parte da rotina do processo de manutenção das
+instalações elétricas, como: limpeza de SE (abrigadas e desabrigadas), pedreiros,
+carpinteiros, motoristas de caminhões que descarregam materiais de construção
+em reformas de SE etc., que apesar de realizarem atividades “não relacionadas às
+instalações elétricas”, adentram locais de serviços elétricos para realizarem suas
+tarefas.
+Essas pessoas também devem ser autorizadas formalmente para adentrarem
+esses locais elétricos; entretanto, essa deve ser precedida de uma análise de
+riscos
+
+criteriosa,
+
+observando-se
+
+condições
+
+impeditivas
+
+intrínsecas
+
+às
+
+características construtivas das instalações elétricas, tendo como condição
+impeditiva intrínseca, a possibilidade de acesso acidental às partes vivas da
+instalação elétrica (sem segregação), ou seja, adentrar à zona de risco.
+Dessa forma, quando tratar-se de pessoas BA1 – Inadvertidas, as medidas de
+controle para proteção ao risco de choque elétrico por contato direto devem ser
+específicas (proteção total), conforme veremos adiante.
+Infelizmente, a incidência de acidentes com Pessoas BA1 ocorre por não se
+observar os conceitos básicos de proteção estabelecidos, principalmente pelo
+desconhecimento daqueles que elaboram a análise de risco e definem as medidas
+de controle a serem adotadas.
+Pessoas BA4 – Advertidos e BA5 – Qualificados x Profissionais
+Autorizados – NR-10
+Pessoas advertidas – BA4 e pessoas qualificadas BA5, definidas nas normas
+da ABNT, são aqueles profissionais que segundo a NR-10, poderão ser
+autorizados a executarem (considerando-se as demais premissas estabelecidas
+pela NR-10) atividades em instalações elétricas, sejam eles habilitados,
+qualificados ou capacitados.
+
+[8]
+
+Para esses profissionais, as medidas de controle a serem observadas devem
+considerar o conhecimento dos mesmos, permitindo a realização de atividades em
+instalações elétricas sem segregação, adotando-se medidas de controle (Proteção
+Parcial) específicas.
+
+2. CONCEITOS BÁSICOS:
+Proteção contra contatos diretos
+A proteção contra choque elétrico por contato direto visa impedir o contato com
+uma parte condutora a ser submetida a uma tensão, não havendo defeito. Esta
+regra se aplica igualmente ao condutor neutro.
+A maneira de impedir este acesso constitui as medidas de proteção a serem
+adotadas, sendo essas com características diferenciadas conforme competência
+das pessoas.
+A Proteção Total é utilizada para designar medidas de proteção contra choque
+elétrico por contato direto, sendo que a proteção é garantida pela característica
+construtiva da instalação. Por isso, essas medidas são suficientes para garantir a
+proteção das pessoas contra o contato acidental a partes vivas da instalação
+elétrica. Esse tipo de proteção é obrigatório para pessoas BA1, tanto em baixa
+tensão como em média\alta tensão. A Proteção Parcial é caracterizada por
+medidas que não são suficientes por si só para garantir a proteção das pessoas
+para possíveis contatos acidentais com partes vivas da instalação elétrica,
+necessitando, como premissa de utilização, do conhecimento ou informação das
+pessoas a serem protegidas. Assim, a aplicação destas medidas tem como
+condição intrínseca o conhecimento das pessoas expostas e, dessa forma,
+somente podem ser aplicadas a pessoas BA4 e/ou BA5, dependendo da situação.
+Proteção por meio de barreiras ou invólucros
+Invólucro: elemento que assegura proteção de um equipamento contra
+determinadas influências externas e proteção contra contatos diretos em qualquer
+direção.
+
+[9]
+
+Barreira: elemento que assegura proteção contra contatos diretos, em todas as
+direções habituais de acesso. Quando a proteção é feita por intermédio de
+invólucro ou barreira, a eficácia permanente deve ser assegurada por sua natureza,
+comprimento, disposição, estabilidade, solidez e eventual isolação, levando em
+conta as condições a que estão expostos.
+Exemplo: pode-se instalar conjuntos de manobra e controle em invólucro
+metálico (com IP adequado) em locais acessíveis a pessoas comuns, sendo que
+esses componentes da instalação são considerados pela norma como dotados de
+medida completa de proteção contra choques por contato direto.
+Nota: somente considerou-se a proteção para choque elétrico, e não arco
+elétrico.
+Proteção parcial por colocação fora de alcance
+Destinada somente ao impedimento dos contatos involuntários com as partes
+vivas, não impedindo o contato direto por ação deliberada.
+É uma medida parcial, ou seja, para a sua eficácia, é necessário que as
+pessoas a serem protegidas tenham conhecimento ou informação suficientes dos
+perigos que a eletricidade pode oferecer, sendo permitida somente em locais com
+acesso exclusivo de pessoas BA4 (advertidas) e BA5 (qualificadas).
+Nota: essa medida também pode ser aplicada no exterior de edificações, como
+linhas aéreas, utilizando condutores nus ou protegidos, sendo que, nesse caso,
+pode ser aplicada em locais de acesso de pessoas comuns BA1, pois é tratada
+como Proteção Total.
+Proteção por meio de obstáculos
+É o elemento que impede um contato direto acidental, mas que não impede o
+contato direto por ação deliberada. Os obstáculos devem impedir:
+a) uma aproximação física não intencional das partes vivas; ou
+b) contatos não intencionais com partes vivas durante atuações sobre o
+equipamento, estando o equipamento em serviço normal.
+
+[10]
+
+Os obstáculos podem ser removíveis sem auxílio de ferramenta ou chave, mas
+devem ser fixados de forma a impedir qualquer remoção involuntária.
+A proteção parcial por interposição de obstáculos é destinada somente ao
+impedimento dos contatos involuntários com as partes vivas. É uma medida parcial,
+ou seja, para a sua eficácia, é necessário que as pessoas a serem protegidas
+tenham conhecimento ou informação suficientes dos perigos que a eletricidade
+pode oferecer. Dessa forma, só pode ser utilizada em locais com acesso exclusivo
+de pessoas BA4 (advertidas) e BA5 (qualificadas).
+Omissão da proteção contra choques elétricos
+Em determinadas situações, admite-se omitir a proteção contra choques
+elétricos nos locais acessíveis somente a pessoas advertidas BA4 ou qualificadas
+BA5, desde que outras medidas de controle sejam atendidas, onde destacamos:
+A pessoa BA4 ou BA5 deve estar devidamente instruída com relação às
+condições do local e às tarefas a serem nele executadas;
+Os locais devem ser sinalizados de forma clara e visível, por meio de
+indicações apropriadas;
+Não deve ser possível ingressar nos locais sem o auxílio ou a liberação de
+algum dispositivo especial.
+Nota: o parâmetro utilizado normalmente para designação do nível de proteção
+para barreiras, invólucros e obstáculos, é o Código IP, conforme NBR 6146 –
+Invólucros de equipamentos elétricos.
+Dessa forma, conclui-se que, de forma intrínseca e obrigatória, a análise das
+medidas de controle a serem adotadas para proteção aos riscos elétricos deve
+considerar a competências das pessoas segundo a ABNT, considerando-se as
+premissas estabelecidas pela NR-10, quanto às zonas de risco, controlada e livre,
+avaliando-se as condições impeditivas a serem observadas.
+
+Glossário:
+
+[11]
+
+1. Alta Tensão (AT): tensão superior a 1000 volts em corrente alternada ou
+1500 volts em corrente contínua, entre fases ou entre fase e terra.
+2. Aterramento Elétrico Temporário: ligação elétrica efetiva confiável e
+adequada intencional a terra, destinada a garantir a equipotencialidade e mantida
+continuamente durante a intervenção na instalação elétrica.
+3. Baixa Tensão (BT): tensão superior a 50 volts em corrente alternada ou 120
+volts em corrente contínua e igual ou inferior a 1000 volts em corrente alternada ou
+1500 volts em corrente contínua, entre fases ou entre fase e terra.
+4. Barreira: dispositivo que impede qualquer contato com partes energizadas
+das instalações elétricas.
+5. Equipamento de Proteção Coletiva (EPC): dispositivo, sistema, ou meio, fixo
+ou móvel de abrangência coletiva, destinado a preservar a integridade física e a
+saúde dos trabalhadores, usuários e terceiros.
+6. Equipamento Segregado: equipamento tornado inacessível por meio de
+invólucro ou barreira.
+7. Extra-Baixa Tensão (EBT): tensão não superior a 50 volts em corrente
+alternada ou 120 volts em corrente contínua, entre fases ou entre fase e terra.
+8. Influências Externas: variáveis que devem ser consideradas na definição e
+seleção de medidas de proteção para segurança das pessoas e desempenho dos
+componentes da instalação.
+9. Instalação Elétrica: conjunto das partes elétricas e não elétricas associadas
+e com características coordenadas entre si, que são necessárias ao funcionamento
+de uma parte determinada de um sistema elétrico.
+10. Impedimento de Reenergização: condição que garante a não energização
+do circuito através de recursos e procedimentos apropriados, sob controle dos
+trabalhadores envolvidos nos serviços.
+
+[12]
+
+11. Invólucro: envoltório de partes energizadas destinado a impedir qualquer
+contato com partes internas.
+12. Obstáculo: elemento que impede o contato acidental, mas não impede o
+contato direto por ação deliberada.
+13. Pessoa Advertida: pessoa informada ou com conhecimento suficiente para
+evitar os perigos da eletricidade.
+14. Pessoa Comum: pessoa que não detém conhecimento suficiente para
+evitar os perigos da eletricidade.
+15. Pessoa Qualificada: pessoa que comprovar conclusão de curso específico
+na área elétrica, reconhecido pelo sistema oficial de ensino.
+16. Profissional BA-1: o mesmo que Pessoa Comum.
+17. Profissional BA-4: o mesmo que Pessoa Advertida.
+18. Profissional BA-5: o mesmo que Pessoa Qualificada.
+19.
+
+Profissional
+
+Capacitado:
+
+profissional
+
+que
+
+recebe
+
+capacitação
+
+de
+
+Profissional Habilitado e Autorizado e trabalhe sob a responsabilidade de
+Profissional Habilitado e Autorizado.
+20. Profissional Habilitado: profissional previamente qualificado, com registro
+no competente conselho de classe.
+21. Profissional Legalmente Habilitado: o mesmo que Profissional Habilitado.
+22. Sistema Elétrico de Potência (SEP): conjunto das instalações e
+equipamentos destinados à geração, transmissão e distribuição de energia elétrica
+até a medição, inclusive.
+23. Tensão de Segurança: extra baixa tensão originada em uma fonte de
+segurança.
+24. Trabalho em Proximidade: trabalho durante o qual o trabalhador pode
+entrar na zona controlada, ainda que seja com uma parte do seu corpo ou com
+
+[13]
+
+extensões condutoras, representadas por materiais, ferramentas ou equipamentos
+que manipule.
+25. Trabalhador Autorizado: são considerados autorizados os Trabalhadores
+Qualificados ou Capacitados e os Profissionais habilitados, com anuência formal da
+empresa.
+26. Zona de Risco: entorno de parte condutora energizada, não segregada,
+acessível inclusive acidentalmente, de dimensões estabelecidas de acordo com o
+nível de tensão, cuja aproximação só é permitida a profissionais autorizados e com
+a adoção de técnicas e instrumentos apropriados de trabalho.
+27. Zona Controlada: entorno de parte condutora energizada, não segregada,
+acessível, de dimensões estabelecidas de acordo com o nível de tensão, cuja
+aproximação só é permitida a profissionais autorizados.
+REFERÊNCIAS
+
+ABNT NBR 14039:2005. Target. Acesso em 02 de julho de 2018, disponível em
+Site da Target Facilitadores de Informação:
+https://www.target.com.br/produtos/normas-tecnicas/40236/nbr14039-comentadainstalacoes-eletricas-de-media-tensao-de-10-kv-a-362-kv-versao-comentada
+ABNT NBR 5410:2004. Target. Acesso em 02 de julho de 2018, disponível em Site
+da Target Facilitadores de Informação:
+https://www.target.com.br/produtos/normas-tecnicas/40236/nbr14039-comentadainstalacoes-eletricas-de-media-tensao-de-10-kv-a-362-kv-versao-comentada
+MTE, M.d.( 29 de abril de 2016) Norma Regulamentadora NR10, acesso em 02 de
+julho de 2018, disponível em site do Ministério do Trabalho e Emprego:
+http://trabalho.gov.br/seguranca-e-saude-no-trabalho/normatizacao/normasregulamentadoras-nr10-segurança-em-instalacoes-servicos-em-eletricidade
+OSHA - Administração de Saúde e Segurança nos Estados Unidos. Disponível
+em: < https://www.osha.gov/>
+
+[14]
+
+Manual Técnico sobre vestimenta de proteção ao Risco de Arco Elétrico e Fogo
+Repentino, 02 de julho de 2018, disponível em site do Ministério do Trabalho e
+Emprego:
+http://trabalho.gov.br/seguranca-e-saude-no-trabalho/
+http://www.facenf.uerj.br/v18n3/v18n3a11.pdf
+https://www.portaleducacao.com.br/conteudo/artigos/direito/acidentes-de-trabalho
+
+

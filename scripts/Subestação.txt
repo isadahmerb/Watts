@@ -1,0 +1,74 @@
+Subestação
+Uma subestação é uma instalação elétrica de alta potência, contendo equipamentos para
+transmissão e distribuição de energia elétrica, além de equipamentos de proteção e
+controle.[1]
+Funciona como ponto de controle e transferência em um sistema de transmissão de energia
+elétrica, direcionando e controlando o fluxo energético, transformando os níveis de tensão e
+funcionando como pontos de entrega para consumidores industriais.[2][3]
+Durante o percurso entre as usinas e as cidades, a eletricidade passa por diversas subestações,
+onde aparelhos chamados transformadores aumentam ou diminuem a sua tensão. Ao elevar a
+tensão elétrica no início da transmissão, os transformadores evitam a perda excessiva de
+energia ao longo do percurso. Ao rebaixarem a tensão elétrica perto dos centros urbanos,
+permitem a distribuição da energia por toda a cidade.
+
+Subestação para transformação e
+transporte de energia eléctrica do parque
+eólico da Serra do Barroso, Portugal
+
+Apesar de mais baixa, a tensão utilizada nas redes de distribuição ainda não está adequada
+para o consumo residencial imediato. Por isso, se faz necessária a instalação de
+transformadores menores, instalados nos postes das ruas, para reduzir ainda mais a tensão que
+vai para as residências, estabelecimentos comerciais e outros locais de consumo.
+
+No Brasil
+É importante lembrar que o fornecimento de energia elétrica no Brasil é feito por meio de um
+grande e complexo sistema de subestações e linhas de transmissão, interligadas às várias
+usinas de diversas empresas. Assim, uma cidade não recebe energia gerada por uma única
+usina, mas por diversas usinas - hidrelétricas, termelétricas ou nucleares - que constituem o
+chamado Sistema Interligado Nacional (SIN).
+A origem histórica do nome se perdeu e hoje ninguém sabe informar porque se usa o termo
+subestação para estas instalações.
+
+Subestação de energia em Hermsdorf na
+Alemanha
+
+Tipos de subestações
+Há alguns tipos de subestações: externa, abrigada e blindada. Sua funções são: emissora e
+receptora de transmissão, de distribuição e consumidora.[4]
+
+A importância da manutenção de subestações
+A manutenção preventiva em subestações é de suma importância para garantir a
+confiabilidade, segurança e eficiência do sistema elétrico. Dentre os benefícios destacam-se
+na importância da manutenção preventiva em subestações:[5]
+
+Aerogeradores em Bom Jardim da Serra,
+Santa Catarina, Brasil
+
+Confiabilidade Operacional: A manutenção preventiva ajuda a identificar e corrigir problemas potenciais antes que se tornem falhas
+significativas.
+Prolongamento da Vida Útil dos Equipamentos: A realização de manutenções regulares ajuda a evitar o desgaste prematuro dos
+equipamentos da subestação.
+Segurança: A manutenção preventiva contribui para identificar e corrigir condições de operação que podem representar riscos de
+segurança.
+Eficiência Energética: Equipamentos elétricos que estão em bom estado de funcionamento tendem a operar de maneira mais eficiente.
+
+Economia Financeira: A manutenção preventiva é geralmente mais econômica do que a manutenção corretiva, que é realizada após a
+ocorrência de falhas.
+Conformidade com Normas e Regulamentações: Muitas normas e regulamentações exigem a realização de manutenção regular em
+subestações para garantir a conformidade com padrões de segurança e desempenho.
+
+Ver também
+Eletricidade
+Transformador
+
+Referências
+1. http://www.vieiraevarela.com.br/arquivos/SE.pdf [ligação inativa]
+2. https://dpm.com.br/o-que-e-e-para-que-serve-uma-subestacao-eletrica/?
+gclid=Cj0KCQiAt66eBhCnARIsAKf3ZNGtyCBrnOfofNyBm7I7EgwEvNm7cjBm_L4lt9X9ml8iwK8KOLCLciEaAvIfEALw_wcB
+3. https://p3engenharia.com.br/blog/o-que-e-e-para-que-serve-uma-subestacao-eletrica/
+4. http://nfeng.com.br/subestacao/subestacao-qual-funcao-e-o-que-e/
+5. «A IMPOTÂNCIA DA MANUNTEÇÃO DE SUBESTAÇÕES» (https://tesseratoee.com.br/impotancia-de-manuntecao-se-s
+ubestacoes/). tesseratoee.com.br. Consultado em 11 de fevereiro de 2024
+Obtida de "https://pt.wikipedia.org/w/index.php?title=Subestação&oldid=73210494"
+
+

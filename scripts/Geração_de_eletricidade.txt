@@ -1,0 +1,1549 @@
+Geração de eletricidade
+Geração de eletricidade é a transformação de outras
+formas de energia em energia elétrica, a partir de
+fontes como a água de um rio, o vento, a luz do Sol, os
+combustíveis e o calor de um reator. A eletricidade
+produzida segue até os locais onde é usada, e parte dela
+pode ser armazenada para outro momento.[1][2]
+Em muitas usinas, a água, o vento ou o vapor fazem
+uma turbina girar. O gerador ligado a ela transforma
+esse movimento em eletricidade. As células
+fotovoltaicas seguem outro caminho: convertem a luz
+diretamente em eletricidade, sem precisar da turbina.[1]
+Reduzir a geração a carvão e a gás sem captura e
+armazenamento de carbono ajuda a limitar o
+aquecimento global. Ao mesmo tempo, a expansão da
+energia solar e da energia eólica acompanha a
+eletrificação dos transportes, dos edifícios e da
+indústria, que aumenta a demanda por eletricidade.[3]
+
+Geração de eletricidade
+
+Um turbogerador converte movimento em
+eletricidade, um dos caminhos da geração
+elétrica.
+Processo
+
+Instalações Usinas elétricas e sistemas de
+geração distribuída
+Produção
+
+Fundamentos da geração
+
+Conversão de outras formas de
+energia em energia elétrica
+
+Medida em quilowatt-hora e seus
+múltiplos
+
+Capacidade Medida em watts e seus
+múltiplos
+
+Fontes e caminhos de conversão
+Antes de chegar à tomada, a energia vem de uma fonte presente na natureza, chamada fonte de energia
+primária. Dentro da usina, essa energia pode seguir caminhos diferentes até se tornar eletricidade. Carvão
+e urânio são fontes diferentes, mas o calor de qualquer uma delas pode produzir vapor e mover uma
+turbina. A luz do Sol oferece dois caminhos: pode ser convertida diretamente por células fotovoltaicas ou
+aquecer o fluido de uma usina heliotérmica.[4][1]
+A água em movimento, o vento e a luz solar se renovam naturalmente. A biomassa também pode ser uma
+fonte renovável de energia primária quando sua reposição acompanha o consumo. Já carvão, petróleo, gás
+natural e urânio vêm de reservas finitas. Chamar uma fonte de renovável não significa que seu uso deixe
+de produzir emissões ou outras mudanças no ambiente.[5]
+
+Potência, produção e rendimento
+
+O fator de capacidade pode variar ao longo do
+ano e entre tecnologias. O gráfico mostra
+instalações de grande porte nos Estados
+Unidos entre 2017 e 2019.[6]
+
+A potência de uma usina mede o ritmo em que ela pode
+gerar eletricidade, enquanto a produção é a quantidade
+gerada ao longo de um período. A capacidade instalada
+é uma medida de potência, expressa em watts,
+quilowatts ou megawatts. Já a energia produzida é
+medida em quilowatts-hora e seus múltiplos[nota 1]. Se
+um gerador fornece 1 MW durante uma hora, produz 1
+MWh. O fator de capacidade compara a produção real
+com o que seria produzido se a usina mantivesse sua
+potência de referência durante todo o período.[7]
+
+Imagine uma usina de 100 MW que pudesse operar
+nessa potência em todas as 8.760 horas de um ano de 365 dias. Ela produziria 876 GWh. Se sua produção
+real fosse de 438 GWh, metade daquele valor, o fator de capacidade anual seria de 50%. Esse número
+mostra quanto a usina usou de sua capacidade durante o ano. Ele não informa quanto da energia da fonte
+foi convertido em eletricidade.[8]
+Quando uma usina queima combustível, parte da energia liberada sai como calor e não chega à rede como
+eletricidade. A eficiência de conversão relaciona a eletricidade obtida à energia consumida no
+combustível. Na cogeração, parte do calor que sobraria é aproveitada para outros usos.[9][10]
+
+História
+Origens e primeiras redes
+Os experimentos de Michael Faraday ajudaram a abrir o
+caminho para os geradores elétricos. Ele demonstrou a
+rotação eletromagnética em 1821 e descobriu a indução
+eletromagnética em 1831, princípio também usado nos
+transformadores.[11] Em seu disco gerador, um disco condutor
+em movimento dentro de um campo magnético produzia
+corrente elétrica.[12]
+No fim do século XIX, máquinas a vapor movidas a carvão e
+turbinas hidráulicas acionavam dínamos que forneciam
+corrente contínua a consumidores próximos. Com a corrente
+alternada, os transformadores passaram a elevar a tensão para
+transportar eletricidade por longas distâncias e a reduzi-la
+perto de quem a usava. Assim, as usinas puderam atender
+áreas maiores e, depois, ser ligadas umas às outras.[13]
+
+No fim do século XIX, máquinas a vapor
+acionavam os dínamos que abasteciam
+redes locais de eletricidade.
+
+A Central de Pearl Street, inaugurada por Thomas Edison em 4 de setembro de 1882 na rua Pearl, em
+Nova Iorque, reunia máquinas a vapor, dínamos, rede de distribuição e medidores de consumo. Ela
+fornecia corrente contínua para iluminação, mas tinha dificuldade para alcançar consumidores distantes e
+
+oferecer tensões diferentes. Nikola Tesla e George Westinghouse desenvolveram e promoveram sistemas
+de corrente alternada para atender a essas necessidades.[14][13][15]
+A iluminação elétrica se espalhou com os aperfeiçoamentos da lâmpada incandescente feitos por Joseph
+Swan e Edison. Redes que antes atendiam uma fábrica, um hotel ou um pequeno grupo de clientes
+passaram a cobrir áreas maiores. Durante a Segunda Revolução Industrial, a eletricidade também chegou
+a motores e transportes.[13][16]
+As primeiras empresas geradoras atendiam seus clientes por redes separadas. Em 1884, Charles Parsons
+desenvolveu uma turbina a vapor que abriu caminho para conjuntos geradores de maior potência.[17] A
+transmissão a longas distâncias permitiu que redes antes isoladas trocassem energia e compartilhassem
+reservas. Essa interligação avançou pelo século XX, enquanto a eletrificação alcançava áreas rurais. Nos
+Estados Unidos, os programas rurais cresceram a partir da década de 1930.[18]
+
+Expansão no século XX
+Nas primeiras décadas do século XX, o carvão alimentou
+cada vez mais usinas elétricas nos Estados Unidos, enquanto
+novos projetos ampliavam a geração hidrelétrica. Em 1940, a
+água fornecia 40% da eletricidade do país.[20][21]
+
+Ligada à rede britânica em 1956, Calder
+Hall fez parte da primeira geração de
+usinas nucleares comerciais.[19]
+
+Na década de 1950, a energia nuclear chegou às redes com a
+entrada em operação comercial de Obninsk, na então União
+Soviética, em 1954. Em 1956, Calder Hall foi ligada à rede
+britânica. O mundo tinha 17 reatores de geração elétrica em
+1960 e 253 em 1980. As crises do petróleo dos anos 1970
+estimularam novos projetos, mas o ritmo de obras diminuiu
+depois, em meio a custos maiores, crescimento menor da
+demanda e exigências de segurança.[19][22]
+
+Desde a década de 1970, países emergentes e em
+desenvolvimento lideraram a expansão da capacidade hidrelétrica mundial, principalmente com
+investimento público em grandes usinas.[23]
+No fim do século, o gás natural ganhou espaço na geração dos Estados Unidos, favorecido por turbinas de
+ciclo combinado. Nelas, o calor que sai de uma turbina a gás produz vapor para mover outra turbina. A
+geração eólica e a fotovoltaica também cresciam, mas partiam de uma escala pequena e, em 2001, ainda
+se concentravam em poucos países.[24][25]
+
+Mudanças no século XXI
+A participação conjunta da eólica e da solar fotovoltaica na produção mundial passou de cerca de 5% em
+2015 para 17% em 2025. O carvão ainda era a maior fonte isolada naquele ano, com 34%, seguido pelo
+gás natural, com 21%.[26]
+Para 2030, a Agência Internacional de Energia projeta que as fontes renováveis e a nuclear forneçam,
+juntas, cerca de metade da eletricidade mundial. O carvão ainda aparece como a maior fonte isolada nessa
+projeção.[27] A produção solar e a eólica variam com a luz e o vento. Ampliar redes, armazenar parte da
+
+energia e ajustar horários de consumo ajuda a manter oferta e
+demanda em equilíbrio à medida que essa produção
+cresce.[28]
+
+Princípios e equipamentos
+Nas grandes usinas, o movimento de uma turbina induz
+corrente elétrica no gerador, enquanto as células solares
+convertem luz em corrente pelo efeito fotovoltaico. Pilhas e
+células de combustível usam reações da eletroquímica. O
+efeito termoelétrico, a piezoeletricidade e o efeito
+triboelétrico atendem sobretudo equipamentos menores ou
+usos específicos.[1][29][30]
+
+Uma usina eólica e uma solar aproveitam
+fontes diferentes e podem fornecer
+eletricidade à mesma rede.[1]
+
+Geradores e turbinas
+Um gerador precisa de movimento relativo entre um
+condutor e um campo magnético. Essa mudança
+produz uma tensão elétrica, chamada força
+eletromotriz, conforme a lei de Faraday. Se o circuito
+está fechado[nota 2], a corrente pode circular. A energia
+mecânica que mantém o movimento vem, por
+exemplo, de uma turbina. O mesmo princípio pode ser
+visto ao girar um ímã perto de uma bobina.[1][11]
+
+Nos enrolamentos do estator, a variação do
+campo magnético do rotor induz tensão elétrica.
+
+O tipo de corrente produzida distingue o alternador,
+que fornece corrente alternada, do dínamo, que
+fornece corrente contínua. Nas redes elétricas,
+turbinas acionam geradores de grande porte. Em
+instalações menores, um motor de combustão interna
+também pode mover o gerador.[1]
+
+Em um conjunto gerador, uma máquina fornece o movimento que outra transforma em eletricidade. Nos
+grandes alternadores, o rotor gira e cria um campo magnético que muda em relação aos enrolamentos do
+estator, onde surge a tensão elétrica. Painéis fotovoltaicos e centrais de células de combustível produzem
+eletricidade sem esse conjunto rotativo.[1][31]
+A turbina aproveita a energia de um fluido[nota 3] para girar um eixo ligado ao gerador. A água pode fazêla girar diretamente, assim como o vento move as pás de um aerogerador. Nas usinas térmicas, o
+movimento vem da expansão do vapor ou de gases aquecidos.[1]
+Nas turbinas a vapor, usadas em centrais termoelétricas a vapor, o vapor é produzido com
+calor da queima de carvão, petróleo, gás ou biomassa, da fissão nuclear, da energia solar
+concentrada ou de fontes geotérmicas.
+Nas turbinas a gás, os gases da combustão se expandem e fazem girar o rotor. Em um
+ciclo combinado, o calor dos gases que saem da turbina é usado para produzir vapor, que
+aciona outra turbina.
+
+Nas turbinas hidráulicas, a água transfere energia
+ao rotor ao atravessar suas pás. O movimento pode
+vir de um rio, de um reservatório ou das marés.
+Nos aerogeradores, o vento movimenta as pás.
+Seu funcionamento aproveita o mesmo recurso que
+os moinhos de vento, mas o movimento é usado
+para gerar eletricidade.[1]
+Em alguns projetos de usinas térmicas, o ciclo de geração usa
+dióxido de carbono supercrítico no lugar da água, buscando
+mais eficiência e equipamentos menores. Também são
+estudadas misturas de dióxido de carbono capazes de alterar
+as temperaturas e pressões críticas[nota 4] do fluido para
+adequá-lo à fonte de calor e ao resfriamento disponível.[32][33]
+
+O movimento relativo entre condutor e
+campo magnético produz tensão
+alternada em um gerador monofásico.
+
+Efeito fotovoltaico
+Nas células fotovoltaicas, materiais semicondutores transformam parte da energia da luz em eletricidade.
+Reunidas em painéis, essas células fornecem corrente contínua.[1]
+
+Eletroquímica
+As reações químicas dentro de pilhas e baterias criam uma
+diferença de potencial entre seus eletrodos, que pode fazer a
+corrente circular. As pilhas primárias, como as pilhas de
+zinco-carbono, não foram feitas para ser recarregadas depois
+de usadas.[34][35]
+
+Uma célula de combustível recebe
+hidrogênio e oxigênio de fora e produz
+eletricidade enquanto eles continuam a
+chegar.
+
+As células de combustível também usam reações químicas,
+mas recebem continuamente as substâncias[nota 5] de que
+precisam. Por isso, podem continuar produzindo eletricidade
+enquanto chegam combustível e oxidante.[36] Se o
+combustível for hidrogênio obtido por eletrólise da água, a
+célula devolve apenas parte da eletricidade gasta para
+produzir esse hidrogênio.[37]
+
+Outros processos
+Onde a luz solar é fraca demais para abastecer uma sonda espacial, os geradores termoelétricos de
+radioisótopos usam o calor do decaimento radioativo para aquecer um lado dos termopares[nota 6]. O
+efeito Seebeck transforma essa diferença de temperatura em eletricidade, sem turbina.[29] Nos
+dispositivos betavoltaicos, partículas beta[nota 7] atingem um material semicondutor, sem passar pela
+conversão do calor.[38]
+Quando certos materiais são deformados, a piezoeletricidade pode produzir eletricidade. No efeito
+triboelétrico, cargas elétricas se separam após o contato entre materiais. Essas formas de geração são
+estudadas e usadas para alimentar sensores e outros aparelhos de baixo consumo.[30]
+
+Na geração magneto-hidrodinâmica, um fluido capaz de conduzir
+eletricidade se move através de um campo magnético e gera
+corrente.[39]
+
+Fontes e tecnologias
+As setas na última coluna acompanham a energia da fonte até a
+eletricidade, passando pelas etapas de conversão de cada
+tecnologia.[1]
+O efeito Seebeck aproveita a
+diferença de temperatura entre
+dois lados de um circuito para
+produzir eletricidade.
+
+Fontes de energia e exemplos de conversão em eletricidade[5][1]
+Tipo de
+geração
+
+De onde vem a energia
+
+Renovável?
+
+Caminho até a eletricidade
+
+Solar
+fotovoltaica
+
+Luz do Sol
+
+Sim
+
+Luz → célula fotovoltaica →
+eletricidade
+
+Solar
+heliotérmica
+
+Luz do Sol
+
+Sim
+
+Luz concentrada → calor → turbina
+→ gerador
+
+Hidrelétrica
+
+Água dos rios
+
+Sim
+
+Água em movimento → turbina →
+gerador
+
+Vento
+
+Sim
+
+Vento → rotor → gerador
+
+Biomassa
+
+Matéria orgânica
+
+Pode ser, se
+houver
+reposição[40]
+
+Queima ou conversão em
+combustível → motor ou turbina →
+gerador[41]
+
+Geotérmica
+
+Calor do subsolo
+
+Sim
+
+Calor → vapor ou outro fluido →
+turbina → gerador
+
+Oceânica
+
+Movimento e calor do oceano,
+ou diferença de salinidade
+entre rio e mar
+
+Sim
+
+Marés e correntes → turbina →
+gerador. Diferença de temperatura →
+ciclo térmico → gerador.[42]
+
+Carvão
+
+Carvão mineral
+
+Não
+
+Queima → vapor → turbina →
+gerador
+
+Gás natural
+
+Gás natural
+
+Não
+
+Queima → turbina a gás → gerador
+
+Petróleo e
+derivados
+
+Combustíveis derivados do
+petróleo
+
+Não
+
+Queima → motor ou turbina →
+gerador
+
+Nuclear
+
+Urânio
+
+Não
+
+Fissão → calor → vapor → turbina →
+gerador
+
+Eólica
+
+A cogeração é uma forma de aproveitar o calor de uma instalação que também fornece eletricidade, não
+uma fonte de energia.[10]
+
+Solar
+
+Painéis fotovoltaicos convertem luz
+diretamente em eletricidade, sem uma
+turbina.
+
+Uma usina fotovoltaica reúne muitos painéis e fornece
+eletricidade à rede, enquanto sistemas instalados em telhados
+também podem atender o consumo do próprio edifício. Na
+geração solar por concentração, espelhos dirigem a luz para
+aquecer um fluido, que alimenta um ciclo térmico. Esse calor
+pode ser armazenado para gerar eletricidade depois do pôr do
+sol.[43] A geração fotovoltaica mundial aproximadamente
+dobrou a cada três anos entre 2016 e 2024.[44] Ela é mais
+difundida que a geração heliotérmica.[45][46]
+
+Antes de comparar a potência de duas instalações solares, é
+preciso saber onde ela foi medida. A dos painéis pode
+aparecer em megawatts-pico, MWp, valor obtido em corrente
+contínua sob condições padronizadas de ensaio[nota 8]. Outra medida considera a corrente alternada que
+sai dos inversores. Como são pontos diferentes do sistema, os dois valores não são intercambiáveis.[48]
+Em 2025, foram acrescentados cerca de 510 GW de capacidade fotovoltaica no mundo.[49]
+
+Hidrelétrica
+
+Na geração solar por concentração,
+espelhos aquecem um fluido para
+acionar um ciclo térmico.[46]
+A barragem da Represa Hoover cria o
+desnível usado para acionar suas
+turbinas. A usina tem cerca de 2,08 GW
+
+Numa hidrelétrica, a água ganha força ao percorrer um
+desnível e atravessa uma turbina ligada ao gerador.[51]
+de capacidade instalada.[50]
+Quando há um reservatório, a usina pode guardar água e
+ajustar parte da produção à demanda, respeitando a
+disponibilidade do rio e as regras de operação. Nas usinas a fio d'água, há menos espaço para armazenála, e a geração depende mais da vazão[nota 9] do rio.[52][53] Há ainda turbinas que aproveitam a corrente
+livre do rio, sem precisar de um desnível para mover suas pás. Essa forma de geração usa a energia
+hidrocinética.[54]
+Em 2024, a hidrelétrica gerou mais eletricidade que qualquer
+outra fonte renovável sozinha. Juntas, a eólica e a solar já
+geravam mais.[55] A usina de Três Gargantas, na China, tem
+22,5 GW de capacidade instalada.[56]
+
+Eólica
+
+Em um parque eólico, o vento movimenta
+os rotores de muitos aerogeradores
+ligados à rede.
+
+Nos parques eólicos, o vento empurra as pás de aerogeradores
+instalados em terra ou no mar. O rotor leva esse movimento
+ao gerador. Um parque pode ter poucas turbinas ou reunir
+centenas delas.[57][1]
+
+A água move as pás da turbina, e o eixo
+leva essa rotação ao gerador.
+
+Na região de Jiuquan, na China, as usinas do complexo eólico
+de Gansu somavam cerca de 6 GW em 2012.[58] O parque
+marítimo Hornsea 1, no Reino Unido, entrou em operação em 2019 com 1.218 MW, a maior capacidade
+desse tipo na época.[59] Em 2025, a capacidade eólica mundial cresceu cerca de 159 GW.[49] Turbinas
+mais potentes permitem alcançar uma mesma capacidade total com menos unidades.[60]
+
+Mesmo sem queimar combustível durante a geração, as turbinas eólicas podem mudar habitats, produzir
+ruído e causar colisões de aves e morcegos. A escolha do lugar e a disposição das turbinas ajudam a
+reduzir esses efeitos.[61] Também é preciso avaliar a possível interferência em radares e adotar medidas
+para reduzi-la.[62]
+
+Biomassa
+Madeira, bagaço de cana e outros resíduos orgânicos podem
+fornecer o calor que produz vapor e movimenta uma turbina.
+A digestão anaeróbia da matéria orgânica gera biogás, usado
+em motores ou turbinas.[63][64] A gaseificação aquece
+biomassa com pouco oxigênio e produz um gás combustível.
+A pirólise usa calor sem oxigênio e pode produzir bio-óleo.
+Esses combustíveis também podem alimentar a geração
+elétrica.[41] Em instalações industriais, a produção elétrica
+com biomassa costuma vir acompanhada do aproveitamento
+do calor.[10]
+
+Resíduos orgânicos podem alimentar
+uma usina que produz vapor para mover
+o gerador.
+
+O lixo queimado em usinas pode conter restos de alimentos e
+papel, que são biomassa, e também plásticos derivados do petróleo, que não são. O gás captado nos
+aterros também pode alimentar geradores.[65] A queima de biomassa libera dióxido de carbono e
+poluentes, mesmo quando a fonte pode se renovar.[66]
+
+Geotermia
+Algumas usinas geotérmicas recebem vapor de reservatórios
+subterrâneos. Outras reduzem a pressão da água quente que
+vem do subsolo para transformá-la em vapor. Nas usinas de
+ciclo binário[nota 10], a água geotérmica aquece um segundo
+fluido, que ferve a uma temperatura menor e move a
+turbina.[67]
+Onde há rocha quente, mas faltam água ou caminhos naturais
+para sua circulação, os sistemas geotérmicos aprimorados
+Na geotermia, o calor do subsolo fornece
+tentam criar essas condições. Um fluido injetado no subsolo
+energia ao ciclo que aciona as turbinas.
+abre ou reabre fraturas, circula pela rocha e leva o calor à
+superfície para gerar eletricidade. Outros projetos fazem o
+fluido circular por tubos fechados no subsolo, sem depender de uma rede de fraturas.[68]
+
+Energia dos oceanos
+Na geração maremotriz, a subida e a descida da maré podem criar um desnível numa barragem, enquanto
+as correntes movem turbinas submersas. O movimento das ondas também pode ser convertido em
+eletricidade. Outra possibilidade usa a diferença de temperatura entre a água da superfície e a das
+profundezas para alimentar um ciclo térmico. A geração por ondas e correntes ainda reúne projetos em
+teste e demonstração.[69][70][42]
+
+Perto do mar, a energia osmótica aproveita a diferença de
+salinidade entre a água doce de um rio e a água salgada do
+oceano.[71]
+
+Carvão
+
+Na geração maremotriz com barragem, o
+desnível criado pela maré faz a água
+atravessar turbinas.
+
+Numa central a carvão, a queima do
+combustível fornece o calor usado para
+produzir vapor.
+
+O carvão costuma ser moído até virar pó antes da combustão
+na caldeira de uma usina. O calor transforma água em vapor,
+que move a turbina ligada ao gerador. Nesse percurso, a
+energia química do carvão passa por calor e movimento antes
+de se tornar eletricidade.[1]
+
+Ao fim de 2025, as unidades a carvão de 30 MW ou mais
+acompanhadas pelo Global Coal Plant Tracker somavam
+cerca de 2.203 GW em operação no mundo. A capacidade
+dessas unidades cresceu 3,5% durante o ano, embora a
+eletricidade gerada a carvão tenha caído 0,6%.[72] Como uma
+usina pode abrigar mais de uma unidade geradora, contar
+unidades não é o mesmo que contar usinas.[nota 11]
+A queima de carvão libera dióxido de carbono e poluentes
+O calor da combustão produz vapor, que
+que aumentam o risco de doenças e mortes prematuras. Em
+gira a turbina ligada ao gerador.
+2021, as centrais a carvão respondiam por cerca de um quinto
+das emissões mundiais de gases de efeito estufa.[74] A China
+produziu mais da metade da eletricidade mundial a carvão em 2025.[75] Enquanto unidades eram
+fechadas na Europa e nas Américas, novas usinas eram construídas na Ásia.[72]
+
+Gás natural
+Numa turbina a gás, gás natural e ar são queimados sob pressão. Os gases quentes se expandem, giram a
+turbina e, com ela, o gerador. Nas usinas de ciclo combinado, o calor que sai com esses gases ainda
+produz vapor para uma segunda turbina. Assim, uma mesma quantidade de combustível pode gerar mais
+eletricidade do que numa turbina a gás isolada.[1][76]
+Para produzir a mesma quantidade de eletricidade, uma usina de ciclo combinado costuma emitir menos
+dióxido de carbono que uma usina a carvão. Ainda assim, a queima do gás libera CO2, e o metano que
+escapa[nota 12] durante a extração e o transporte também aquece a atmosfera. O resultado depende da
+eficiência da usina e de quanto metano se perdeu antes da combustão.[76][3]
+
+Petróleo e derivados
+Em localidades isoladas ou durante uma falha da rede, grupos
+geradores menores podem fornecer eletricidade. Neles,
+motores a gasolina ou a diesel movem o gerador. Algumas
+turbinas a gás também podem queimar combustíveis líquidos
+derivados do petróleo. Óleo combustível residual e coque de
+petróleo também podem alimentar centrais a vapor.[77][1]
+No ciclo combinado, os gases de escape
+da turbina a gás ainda fornecem calor
+para uma segunda turbina.
+
+Nuclear
+
+Numa usina nuclear, a fissão nuclear libera calor para
+produzir o vapor que move a turbina. A maior parte dos
+reatores usa urânio como combustível. Em alguns reatores, a
+água ferve no próprio vaso do reator e o vapor move a
+turbina. Em outros, a água aquecida no núcleo transfere calor
+a uma segunda corrente de água, que produz o vapor da
+turbina.[78]
+Numa usina nuclear, o calor da fissão
+
+Depois de usado no reator, o combustível nuclear irradiado
+produz o vapor que movimenta a turbina
+precisa ser resfriado e guardado sob proteção. Outros resíduos
+ligada ao gerador.
+radioativos também exigem cuidados no manejo e no
+armazenamento. Em acidentes, material radioativo pode
+escapar, em condições e quantidades diferentes de um caso para outro. Three Mile Island, Chernobil e
+Fukushima levaram a revisões de segurança e a debates sobre a geração nuclear.[79][80]
+A eletricidade nuclear também pode alimentar a captura direta de ar, processo que retira dióxido de
+carbono da atmosfera. Bret Kugelmass, fundador do Energy Impact Center, defendeu essa possibilidade
+em 2020.[81] Reatores avançados são estudados como fonte de calor e eletricidade para o mesmo
+processo.[82]
+A geração por fusão nuclear segue outro princípio e ainda está em desenvolvimento, sem usinas
+comerciais fornecendo eletricidade.[83]
+
+Cogeração
+Se o calor que sobra de uma usina for usado para aquecer edifícios ou atender uma fábrica, a mesma
+instalação passa a fornecer eletricidade e calor útil. Essa é a cogeração, em que o calor pode chegar como
+vapor ou água quente. Para fornecer as mesmas quantidades de eletricidade e calor, ela consome menos
+combustível do que a produção separada.[10]
+A ordem também pode ser inversa: um forno industrial recebe calor primeiro, e parte do calor que
+sobraria desse processo produz vapor para mover uma turbina e gerar eletricidade. É a geração com calor
+residual, outra forma de cogeração.[84]
+
+Em alguns projetos, o calor das usinas nucleares também
+é usado no aquecimento urbano ou na dessalinização da
+água, junto com a produção de eletricidade.[85]
+
+Geração no sistema elétrico
+Ligação à rede
+A cogeração aproveita parte do calor que
+seria descartado e reduz o combustível
+necessário para fornecer eletricidade e calor
+útil.[10]
+
+Os alternadores fornecem a corrente alternada usada na maior
+parte das redes elétricas. Já os painéis fotovoltaicos produzem
+corrente contínua. Para que essa eletricidade entre na rede,
+um inversor a converte em corrente alternada e acompanha a
+tensão e a frequência[nota 13] do sistema.[86]
+
+Transformadores elevam a tensão para
+transmitir eletricidade a longas distâncias
+e a reduzem perto do consumo.
+
+A eletricidade produzida em usinas ligadas à transmissão
+passa por transformadores de subestações, que elevam sua tensão. Isso reduz as perdas no percurso a
+longas distâncias. Perto dos consumidores, outros transformadores baixam a tensão para a
+distribuição.[87]
+
+Geração centralizada e distribuída
+No setor elétrico, a geração centralizada reúne usinas de
+grande porte cujo fornecimento chega a consumidores
+distantes por meio das redes. É o caso de centrais a carvão,
+gás ou energia nuclear, grandes hidrelétricas e parques eólicos
+ou solares. As concessionárias de eletricidade podem receber
+essa produção e entregá-la aos consumidores.[88][1]
+Quando a eletricidade é produzida perto de onde será usada,
+fala-se em geração distribuída. Painéis nos telhados, pequenos
+aerogeradores, células de combustível e grupos geradores
+Painéis nos telhados produzem
+podem atender casas, empresas ou grupos de consumidores.
+eletricidade perto dos locais onde ela
+Algumas instalações se ligam à rede de distribuição, enquanto
+pode ser consumida.
+outras abastecem sistemas isolados[nota 14]. Elas podem usar
+fontes renováveis ou combustíveis fósseis.[90] Nos telhados, a
+geração solar ainda aproveita superfícies que já foram construídas.[91]
+Uma usina virtual coordena recursos que estão espalhados por uma área, como painéis solares, baterias e
+cargas[nota 15] cujo consumo pode mudar de horário. Ao reunir esses recursos, ela ajuda a equilibrar a
+rede.[92]
+
+Ajuste da produção à demanda
+Como a eletricidade precisa ser produzida quase no
+mesmo instante em que é consumida, um desequilíbrio
+grande entre geração e consumo pode interromper o
+fornecimento.[87]
+A carga de base é a menor demanda que permanece
+numa rede até nas horas de menor consumo. Usinas
+nucleares, a carvão, a gás e hidrelétricas podem atendêla. Outras instalações, ou as mesmas em outro regime de
+operação, ajustam a produção conforme o consumo
+muda e cada fonte está disponível.[94]
+Quando o consumo muda, o operador da rede pode pedir
+Neste dia de 2016 na Califórnia, a produção
+solar reduziu a demanda atendida pelas
+a usinas despacháveis que aumentem ou reduzam a
+demais fontes ao meio-dia, e essa demanda
+produção, dentro dos limites de seus equipamentos. O
+voltou a crescer ao entardecer.[93]
+vento e a luz solar, porém, determinam quanto as usinas
+eólicas e fotovoltaicas podem produzir em cada
+momento. Previsões do tempo, ligações entre redes,
+usinas flexíveis e armazenamento ajudam a lidar com essas mudanças.[93]
+Nas horas de consumo mais alto, o operador pode recorrer a usinas de ponta, escolhendo as unidades pelo
+tempo que levam para ligar, pela rapidez com que mudam de potência e pelo custo de operação. Outra
+possibilidade é deslocar parte do consumo para horários diferentes, evitando acionar geração
+adicional.[7][93]
+Às vezes, o vento e o Sol permitiriam gerar mais eletricidade do que a rede consegue transportar ou
+receber. O operador então limita a produção. Esse corte também é chamado de curtailment[nota 16].[95]
+Numa onda de calor, mais pessoas usam refrigeração justamente quando alguns tipos de usina podem
+perder potência. O ar quente prejudica o desempenho das turbinas a gás, e a água aquecida dificulta o
+resfriamento de centrais térmicas, inclusive nucleares. A estiagem reduz a água disponível para
+hidrelétricas, enquanto os painéis fotovoltaicos perdem eficiência ao esquentar. Quando esses efeitos se
+juntam, cresce o risco de interrupções no fornecimento.[96][97]
+
+Armazenamento
+Uma bateria recarregável guarda parte da eletricidade recebida durante a carga e a devolve na descarga.
+Esse armazenamento na rede permite usá-la em outro horário, embora haja perdas no percurso. Nas
+estatísticas da rede, a descarga pode aparecer como geração, embora a bateria não seja uma fonte primária
+de energia.[34][98]
+Nas centrais hidrelétricas reversíveis, a eletricidade bombeia água para um reservatório mais alto.
+Quando a água volta a descer, atravessa turbinas e gera eletricidade. O sistema devolve menos energia do
+que gastou para bombear, mas permite transferir seu uso para outro horário. As baterias cumprem função
+semelhante por um caminho diferente e com outros limites de potência e duração.[2][98]
+
+A potência de um sistema de armazenamento, em MW,
+mostra o ritmo máximo em que ele pode entregar eletricidade.
+A energia guardada, em MWh, mostra por quanto tempo
+consegue manter esse ritmo. Assim, o armazenamento pode
+cobrir mudanças rápidas da produção e do consumo, deslocar
+energia para horários de maior demanda e fornecer
+reservas.[98]
+A água é bombeada para um reservatório
+alto e depois desce pelas turbinas para
+gerar eletricidade.[2]
+
+Baterias também oferecem energia de reserva, além de
+alimentar aparelhos portáteis e veículos. Um sistema de
+níquel-cádmio instalado no Alasca em 2003 foi projetado para
+fornecer 40 MW por sete minutos ou 26 MW por quinze
+
+minutos.[99]
+
+Usinas híbridas
+Uma usina híbrida pode reunir duas formas de geração ou combinar uma delas com armazenamento,
+usando o mesmo ponto de conexão à rede[nota 17]. Num conjunto solar com baterias, parte da eletricidade
+fica guardada para ser entregue mais tarde. A descarga da bateria não acrescenta uma nova fonte de
+energia ao sistema.[100][98]
+
+Produção e capacidade
+Contabilização da produção
+A eletricidade medida nos terminais dos geradores é chamada geração bruta. Se desse total for
+descontado o consumo das bombas, dos ventiladores e de outros equipamentos da própria usina, obtém-se
+a geração líquida.[101] Até chegar aos consumidores, parte da energia ainda se perde nas redes de
+transmissão e distribuição. Um balanço nacional também leva em conta as importações, as exportações e
+a energia recebida e devolvida pelos sistemas de armazenamento.[102][98]
+
+Produção mundial
+As fontes usadas para produzir eletricidade formam a matriz elétrica, uma parte da matriz energética. A
+matriz energética inclui também combustíveis usados diretamente em veículos, fábricas e edifícios. Por
+isso, a eletricidade gerada não equivale a todo o consumo mundial de energia.[103]
+Em 2024, o mundo produziu cerca de 30.700 TWh de eletricidade, e aproximadamente 32% vieram de
+fontes renováveis.[104]
+Em 2025, as fontes renováveis forneceram 34% da eletricidade mundial. O carvão também respondeu por
+34%, e o gás natural, por 21%. Renováveis e energia nuclear chegaram, juntas, a cerca de 43%.[26]
+
+Produção por país
+
+Durante a operação, uma rede abastecida
+principalmente por usinas nucleares ou
+hidrelétricas tende a emitir menos gases de
+efeito estufa que outra dependente de carvão e
+gás.[3]
+No Brasil, as hidrelétricas passaram de 83%
+da geração elétrica em 2005 para 63% em
+2014.[106] Em 2024, as fontes renováveis
+responderam por 88,2% da oferta interna de
+eletricidade[nota 18]. A geração eólica foi de
+107,7 TWh, e a fotovoltaica, de 70,7 TWh.
+Juntas, forneceram 23,7% da eletricidade
+gerada no país. A micro e minigeração
+
+O gráfico compara as fontes usadas para gerar
+eletricidade no mundo entre 2000 e 2022.
+
+distribuída respondeu por 5,6%.[108]
+Em 2025, as fontes renováveis responderam
+por 86,8% da oferta interna de eletricidade
+brasileira. A parcela da geração nacional vinda
+do vento e do Sol chegou a 26,4%, enquanto a
+micro e minigeração distribuída forneceu
+7,0%.[109]
+
+A fonte que mais gera eletricidade não é a mesma em
+todos os países. O mapa usa dados de 2024 ou 2025,
+conforme a disponibilidade.[105]
+
+Em Portugal continental, as fontes renováveis
+acompanhadas pela REN produziram 36,7
+TWh em 2024, o equivalente a cerca de 70%
+do consumo da rede pública. A produção não
+renovável foi de 5,1 TWh, quase toda a gás
+natural. O país também recebeu do exterior
+mais eletricidade do que enviou: o saldo
+importador[nota 19] de 10,5 TWh abasteceu
+cerca de 20% do consumo. Por isso, os
+percentuais de consumo abastecido não são
+apenas
+parcelas
+da
+produção
+[110][111]
+nacional.
+
+Em 2025, a produção renovável acompanhada pela REN ficou perto de 37 TWh e abasteceu 68% do
+consumo da rede pública.[111]
+
+Capacidade instalada mundial
+Uma usina pode ter muita potência instalada e, ainda assim, produzir menos eletricidade ao longo do ano
+que outra de potência semelhante. A capacidade instalada mostra quanto ela pode fornecer nas condições
+usadas para sua classificação. A produção também depende das horas em que operou e da disponibilidade
+da fonte.[7]
+
+Ao fim de 2025, as instalações de fontes renováveis somavam 5.149
+GW de capacidade no mundo. O número reúne hidrelétricas, usinas
+solares, eólicas e outras tecnologias renováveis, sem contar centrais a
+carvão, gás ou energia nuclear. Durante aquele ano, foram
+acrescentados cerca de 692 GW, dos quais 510 GW em energia solar e
+159 GW em eólica.[49]
+
+Economia
+
+A capacidade instalada de um
+parque eólico soma a potência
+de suas turbinas, não a
+eletricidade produzida ao longo
+do ano.[7]
+
+Ao decidir onde e como construir novas usinas, o planejamento da
+expansão da geração procura atender ao consumo futuro sem perder de
+vista os custos e a segurança do fornecimento.[112] Entram nessa escolha os recursos disponíveis, o preço
+da construção e da operação e a possibilidade de ligar a usina à rede. A conta paga pelo consumidor cobre
+também a transmissão, a distribuição e outros encargos. Para comparar tecnologias, é preciso considerar o
+combustível, a vida útil da instalação e quanto ela pode produzir.[113][114]
+Carvão e gás natural podem trocar de posição na comparação
+de custos conforme o preço local de cada combustível, a
+eficiência das usinas e suas outras despesas.[113]
+
+A construção de uma usina requer
+investimento antes que ela forneça
+eletricidade. Esse gasto entra no custo
+
+Uma usina nuclear pode reunir muita potência num só lugar,
+mas exige investimento elevado antes de começar a operar e
+costuma levar anos para ser construída. Uma hidrelétrica
+precisa de vazão e desnível adequados, e sua produção varia
+com as chuvas. Se tem reservatório, pode guardar água para
+gerar em outros momentos, respeitando as regras de operação
+e os demais usos da água.[3][53]
+
+Para calcular o custo nivelado de energia, somam-se os gastos
+de uma usina durante sua vida útil e divide-se o total pela
+eletricidade que ela produzirá. A medida ajuda a comparar
+projetos, mas não diz sozinha quanto custa atender o consumo em cada hora. A rede, as reservas, o
+armazenamento e a resposta da demanda também têm custos. A eletricidade produzida em horários
+diferentes pode alcançar preços diferentes.[113][93]
+do projeto.[113]
+
+Se o custo da eletricidade produzida num telhado se iguala ao preço da eletricidade comprada da rede, o
+sistema fotovoltaico atingiu a paridade de rede.[116]
+Produtores independentes podem vender a eletricidade de parques solares por contratos de longo
+prazo.[117] Tarifas garantidas[nota 20] e incentivos fiscais também foram usados para financiar a expansão
+da geração solar.[118] Entre 2010 e 2019, o custo médio por unidade de eletricidade das novas usinas
+fotovoltaicas de grande porte caiu 82% no mundo. O resultado de cada projeto ainda depende de como foi
+financiado, de quanto produz e do preço recebido pela eletricidade.[119][113]
+O preço pago pela eletricidade nem sempre cobre os danos à saúde e ao ambiente causados pela produção
+e pelo uso do carvão. Esses custos que recaem sobre outras pessoas são chamados de
+externalidades.[120][88] Uma usina nova também pode perder valor antes de recuperar o dinheiro investido
+
+se a procura pela sua eletricidade cair ou se outra
+fonte ficar mais barata. Esse risco de ativo encalhado
+foi examinado para investimentos no Sudeste
+Asiático.[121]
+
+Efeitos ambientais
+
+A expansão da capacidade instalada
+acompanhou a queda do custo médio de novas
+instalações solares e eólicas entre 2010 e
+2022.[115]
+
+Ao queimar combustíveis fósseis, as usinas liberam dióxido
+de carbono e poluentes como o dióxido de enxofre, que
+participa da formação da chuva ácida. Os óxidos de
+[88]
+poluentes lançada no ar.
+nitrogênio e o material particulado também prejudicam a
+qualidade do ar. A quantidade emitida muda com o
+combustível, a eficiência da usina e os equipamentos usados
+[88][122]
+para controlar a poluição.
+Na geração a gás, os vazamentos de metano durante a extração e o
+transporte também entram no balanço climático.[123][3]
+A geração com combustíveis fósseis
+libera gases e partículas. Equipamentos
+de controle reduzem a quantidade de
+
+A extração de carvão ocupa terras e pode alterar o solo e os rios. As usinas nucleares não emitem dióxido
+de carbono no momento da fissão, mas produzem resíduos radioativos que exigem proteção e
+armazenamento. Para avaliar os efeitos de qualquer tecnologia, também é preciso olhar a construção da
+usina, a extração e o preparo dos combustíveis e o desmonte ao fim de sua vida útil. Essa análise é
+chamada avaliação do ciclo de vida.[88][79]
+Ao considerar todas essas etapas, as emissões de gases de efeito estufa ao longo do ciclo de vida das
+fontes de energia costumam ser maiores nas usinas a carvão e a gás do que na geração eólica, solar,
+nuclear e hidrelétrica, chamada eletricidade de baixo carbono. Os números mudam de projeto para
+projeto, especialmente nos reservatórios hidrelétricos e na fabricação de equipamentos e combustíveis.
+Para comparar as fontes, é preciso usar a mesma quantidade de eletricidade e contar as mesmas etapas do
+ciclo de vida.[3]
+
+Água, uso do solo e materiais
+Num sistema de resfriamento de passagem única de uma usina térmica, muita água é captada, e a maior
+parte volta ao ambiente mais quente. As torres de resfriamento fazem a água circular novamente,
+captando menos, mas perdendo uma parte por evaporação. Por isso, retirar água e consumi-la[nota 21] são
+coisas diferentes. O resfriamento a ar usa menos água, mas pode custar mais e reduzir a eficiência.[124]
+
+Uma barragem pode alagar terras e mudar a vazão do rio, o
+movimento dos sedimentos e a passagem dos peixes. Parques
+eólicos e solares também ocupam áreas e precisam de acessos
+e linhas de transmissão. Num parque eólico, parte do terreno
+entre as turbinas pode continuar em uso. Os efeitos dependem
+do local escolhido e de como a instalação foi projetada.[3][61]
+Geradores, cabos, painéis e baterias são feitos com materiais
+como aço, cobre, alumínio e silício. Cada tecnologia precisa
+deles em quantidades diferentes e pode exigir outros minerais.
+A extração, o processamento e a reciclagem desses materiais
+entram na avaliação ambiental da expansão da geração
+elétrica.[125]
+
+Torres de resfriamento recirculam a
+água, mas parte dela se perde por
+evaporação.[124]
+
+Ver também
+Gerador elétrico, conversão de movimento em eletricidade
+Cogeração, produção conjunta de eletricidade e calor útil
+Geração distribuída, produção elétrica próxima do local de consumo
+Armazenamento de energia, uso posterior da energia produzida
+Rede elétrica, transporte e distribuição da eletricidade
+Usina hidrelétrica, geração a partir da energia da água
+Fator de capacidade, relação entre a produção real e a produção possível
+Energia renovável, fontes que se repõem naturalmente
+Energia nuclear, uso do calor da fissão para gerar eletricidade
+Lista de países por produção de eletricidade, dados de geração elétrica por país
+
+Notas
+1. Um terawatt-hora equivale a um bilhão de quilowatts-hora. A unidade permite expressar a
+produção de países sem escrever tantos zeros.[7]
+2. Um circuito fechado oferece um caminho contínuo para a corrente elétrica. Se esse
+caminho é interrompido, dizemos que o circuito está aberto.[1]
+3. Na física, água, vapor e gases aquecidos são chamados fluidos, nome dado a líquidos e
+gases.[1]
+4. Acima de certos valores de temperatura e pressão, o dióxido de carbono deixa de ter a
+separação habitual entre líquido e gás. As misturas estudadas mudam esses valores para
+adequar o ciclo à fonte de calor.[32][33]
+5. Numa célula de combustível, os reagentes, isto é, as substâncias que participam da reação
+química, precisam continuar chegando para que a produção de eletricidade prossiga.[36]
+6. Um termopar une dois materiais condutores diferentes. A diferença de temperatura entre
+suas extremidades produz uma pequena tensão elétrica.[29]
+7. Nesse tipo de dispositivo, partículas beta são elétrons emitidos por um material radioativo.
+Sua energia é aproveitada diretamente, sem passar pela etapa de aquecimento.[38]
+
+8. Essas condições fixam a iluminação e a temperatura usadas na medição dos painéis. Fora
+do ensaio, a potência muda com a luz recebida e o aquecimento do equipamento.[47]
+9. Vazão é a quantidade de água que passa por um ponto do rio em certo tempo. Quando ela
+cai, a usina pode ter menos água para mover as turbinas.[51]
+10. O nome se refere aos dois fluidos que circulam separadamente. A água quente do subsolo
+aquece o outro fluido, que pode virar vapor e mover a turbina.[67]
+11. Uma unidade geradora é um conjunto de equipamentos capaz de produzir eletricidade.
+Uma usina pode reunir mais de uma unidade, com capacidades e datas de entrada em
+operação diferentes.[73]
+12. O metano é o principal componente do gás natural. Ele aquece a atmosfera mesmo quando
+escapa sem ser queimado.[3]
+13. A frequência mostra quantas vezes a corrente alternada completa um ciclo por segundo. É
+medida em hertz, abreviado Hz.[86]
+14. No Brasil, são redes que não estão conectadas ao Sistema Interligado Nacional. A
+eletricidade precisa ser produzida perto dos lugares que atendem.[89]
+15. Na operação da rede, "carga" é o consumo de um aparelho ou de um grupo de
+consumidores. Não se refere ao peso do equipamento.[86]
+16. A palavra inglesa significa "redução". Neste caso, a usina poderia produzir mais, mas parte
+da geração é cortada porque a rede não consegue receber toda a energia disponível.[95]
+17. É o local em que a instalação entrega eletricidade ao sistema elétrico. Uma usina solar e
+suas baterias podem compartilhar essa conexão.[100]
+18. A oferta interna soma a geração nacional ao saldo das trocas de eletricidade com o exterior.
+Por isso, não é exatamente a mesma medida que a geração no país.[107]
+19. Um saldo importador significa que, no período, o país recebeu do exterior mais eletricidade
+do que enviou para fora.[110]
+20. Nesse tipo de incentivo, o produtor recebe um preço previamente fixado pela eletricidade
+que fornece durante um período definido. Não é a tarifa cobrada de todos os
+consumidores.[118]
+21. Retirada é a água captada de uma fonte. Consumo é a parte que não volta a ela, por
+exemplo, a que evapora no resfriamento.[124]
+
+Referências
+1. «How electricity is generated» (https://www.eia.gov/energyexplained/electricity/how-electricit
+y-is-generated.php) (em inglês). Energy Information Administration. Consultado em 26 de
+setembro de 2026. Cópia arquivada em 20 de setembro de 2026 (http://web.archive.org/we
+b/20260920055117/https://www.eia.gov/energyexplained/electricity/how-electricity-is-generat
+ed.php)
+2. «Pumped Storage Hydropower» (https://www.energy.gov/cmei/water/pumped-storage-hydro
+power) (em inglês). Departamento de Energia dos Estados Unidos. Consultado em 26 de
+setembro de 2026
+3. «Climate Change 2022: Mitigation of Climate Change. Chapter 6: Energy Systems» (https://
+www.ipcc.ch/report/ar6/wg3/chapter/chapter-6/) (em inglês). Painel Intergovernamental
+sobre Mudanças Climáticas. 2022. Consultado em 26 de setembro de 2026
+4. «Electricity explained» (https://www.eia.gov/energyexplained/electricity/) (em inglês). Energy
+Information Administration. Consultado em 26 de setembro de 2026. Cópia arquivada em 27
+de setembro de 2026 (http://web.archive.org/web/20260927192315/https://www.eia.gov/ener
+gyexplained/electricity/)
+
+5. «Fontes de energia» (https://www.epe.gov.br/pt/abcdenergia/fontes-de-energia). Empresa
+de Pesquisa Energética. Consultado em 26 de setembro de 2026. Cópia arquivada em 12
+de setembro de 2026 (http://web.archive.org/web/20260912064751/https://www.epe.gov.br/p
+t/abcdenergia/fontes-de-energia)
+6. «Nearly half of U.S. geothermal power capacity came online in the 1980s» (https://www.eia.
+gov/todayinenergy/detail.php?id=42036) (em inglês). Energy Information Administration. 20
+de novembro de 2019. Consultado em 26 de setembro de 2026. Cópia arquivada em 7 de
+junho de 2026 (http://web.archive.org/web/20260607235709/https://www.eia.gov/todayinene
+rgy/detail.php?id=42036)
+7. «What is the difference between electric generation capacity and electricity generation?» (htt
+ps://www.eia.gov/tools/faqs/faq.php?id=101&t=3) (em inglês). Energy Information
+Administration. Consultado em 26 de setembro de 2026
+8. «How much electricity does a power plant generate?» (https://www.eia.gov/tools/faqs/faq.ph
+p?id=104&t=21) (em inglês). Energy Information Administration. Consultado em 26 de
+setembro de 2026
+9. «What is the efficiency of different types of power plants?» (https://www.eia.gov/tools/faqs/fa
+q.php?id=107&t=3) (em inglês). Energy Information Administration. Consultado em 26 de
+setembro de 2026
+10. «What Is CHP?» (https://www.epa.gov/chp/what-chp) (em inglês). Agência de Proteção
+Ambiental dos Estados Unidos. Consultado em 26 de setembro de 2026
+11. «History of research at the Ri» (https://www.rigb.org/explore-science/explore/collection/histor
+y-research-ri) (em inglês). Royal Institution. Consultado em 26 de setembro de 2026. Cópia
+arquivada em 27 de setembro de 2026 (http://web.archive.org/web/20260927165535/https://
+www.rigb.org/explore-science/explore/collection/history-research-ri)
+12. «Faraday's Disc Electrical Generator» (https://collection.sciencemuseumgroup.org.uk/object
+s/co6490/faradays-disc-electrical-generator-generator) (em inglês). Science Museum Group.
+Consultado em 26 de setembro de 2026. Cópia arquivada em 17 de outubro de 2021 (http://
+web.archive.org/web/20211017013132/https://collection.sciencemuseumgroup.org.uk/object
+s/co6490/faradays-disc-electrical-generator-generator)
+13. «Untangling a Century-Old Web: Deregulating the Electric Power Industry» (https://www.ene
+rgy.gov/documents/sepa-historysect4pdf) (em inglês). Departamento de Energia dos
+Estados Unidos. Consultado em 26 de setembro de 2026. Cópia arquivada em 27 de
+setembro de 2026 (http://web.archive.org/web/20260927163919/https://www.energy.gov/doc
+uments/sepa-historysect4pdf)
+14. «Lighting A Revolution: Script for 19th Century Promotion» (https://americanhistory.si.edu/lig
+hting/scripts/s19c.htm) (em inglês). Smithsonian Institution. Consultado em 26 de setembro
+de 2026. Cópia arquivada em 27 de setembro de 2026 (http://web.archive.org/web/2026092
+7234820/https://americanhistory.si.edu/lighting/scripts/s19c.htm)
+15. «The Origins of Hydroelectric Power» (https://www.nps.gov/articles/5-the-origins-of-hydroele
+ctric-power.htm) (em inglês). National Park Service. Consultado em 26 de setembro de 2026
+16. «The History of the Light Bulb» (https://www.energy.gov/articles/history-light-bulb) (em
+inglês). Departamento de Energia dos Estados Unidos. 22 de novembro de 2013.
+Consultado em 26 de setembro de 2026. Cópia arquivada em 27 de setembro de 2026 (htt
+p://web.archive.org/web/20260927173559/https://www.energy.gov/articles/history-light-bulb)
+17. «Parsons' steam turbine generator, 1884» (https://collection.sciencemuseumgroup.org.uk/ob
+jects/co51109/parsons-steam-turbine-generator-1884) (em inglês). Science Museum Group.
+Consultado em 26 de setembro de 2026. Cópia arquivada em 25 de setembro de 2025 (htt
+p://web.archive.org/web/20250925223338/https://collection.sciencemuseumgroup.org.uk/obj
+ects/co51109/parsons-steam-turbine-generator-1884)
+
+18. «USDA Celebrates 90th Anniversary of Rural Electrification Act, Billions Invested in Electric
+Infrastructure» (https://www.rd.usda.gov/newsroom/news-release/usda-celebrates-90th-anni
+versary-rural-electrification-act-billions-invested-electric-infrastructure) (em inglês).
+Departamento de Agricultura dos Estados Unidos. Consultado em 26 de setembro de 2026.
+Cópia arquivada em 11 de junho de 2026 (http://web.archive.org/web/20260611010111/http
+s://www.rd.usda.gov/newsroom/news-release/usda-celebrates-90th-anniversary-rural-electrif
+ication-act-billions-invested-electric-infrastructure)
+19. Fischer, David (1997). History of the International Atomic Energy Agency: The First Forty
+Years (https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1032_web.pdf) (PDF) (em
+inglês). [S.l.]: Agência Internacional de Energia Atômica. p. 143. Consultado em 27 de
+setembro de 2026. Cópia arquivada (PDF) em 27 de setembro de 2026 (http://web.archive.or
+g/web/20260927204934/https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1032_web.p
+df)
+20. «The 250-year history of U.S. energy consumption» (https://www.eia.gov/todayinenergy/deta
+il.php?id=67824) (em inglês). Energy Information Administration. 30 de junho de 2026.
+Consultado em 27 de setembro de 2026
+21. «History of Hydropower» (https://www.energy.gov/cmei/water/history-hydropower) (em
+inglês). Departamento de Energia dos Estados Unidos. Consultado em 27 de setembro de
+2026. Cópia arquivada em 27 de setembro de 2026 (http://web.archive.org/web/2026092716
+5758/https://www.energy.gov/cmei/water/history-hydropower)
+22. Char, N. L.; Csik, B. J. (1987). «Nuclear power development: History and outlook» (https://w
+ww.iaea.org/sites/default/files/publications/magazines/bulletin/bull29-3/29304781925.pdf)
+(PDF). IAEA Bulletin (em inglês). 29 (3). Consultado em 27 de setembro de 2026. Cópia
+arquivada (PDF) em 6 de setembro de 2026 (http://web.archive.org/web/20260906162822/htt
+ps://www.iaea.org/sites/default/files/publications/magazines/bulletin/bull29-3/29304781925.p
+df)
+23. «Hydropower Special Market Report: Executive summary» (https://www.iea.org/reports/hydr
+opower-special-market-report/executive-summary) (em inglês). Agência Internacional de
+Energia. 2021. Consultado em 27 de setembro de 2026. Cópia arquivada em 27 de
+setembro de 2026 (http://web.archive.org/web/20260927172155/https://www.iea.org/reports/
+hydropower-special-market-report/executive-summary)
+24. «Most electric generating capacity additions in the last decade were natural gas-fired» (http
+s://www.eia.gov/todayinenergy/detail.php?id=2070) (em inglês). Energy Information
+Administration. 5 de julho de 2011. Consultado em 27 de setembro de 2026. Cópia
+arquivada em 5 de maio de 2026 (http://web.archive.org/web/20260505015418/https://www.
+eia.gov/todayinenergy/detail.php?id=2070)
+25. «Renewable Energy - Markets and Policy Trends in IEA Countries» (https://www.iea.org/new
+s/renewable-energy-markets-and-policy-trends-in-iea-countries) (em inglês). Agência
+Internacional de Energia. 31 de maio de 2004. Consultado em 27 de setembro de 2026
+26. «Global Energy Review 2026: Electricity supply» (https://www.iea.org/reports/global-energy-r
+eview-2026/electricity-supply) (em inglês). Agência Internacional de Energia. 2026.
+Consultado em 26 de setembro de 2026. Cópia arquivada em 17 de setembro de 2026 (htt
+p://web.archive.org/web/20260917210243/https://www.iea.org/reports/global-energy-review2026/electricity-supply)
+27. «Electricity 2026: Executive summary» (https://www.iea.org/reports/electricity-2026/executiv
+e-summary) (em inglês). Agência Internacional de Energia. 2026. Consultado em 27 de
+setembro de 2026
+28. «Electricity 2026: Flexibility» (https://www.iea.org/reports/electricity-2026/flexibility) (em
+inglês). Agência Internacional de Energia. 2026. Consultado em 27 de setembro de 2026.
+Cópia arquivada em 27 de setembro de 2026 (http://web.archive.org/web/20260927183914/
+https://www.iea.org/reports/electricity-2026/flexibility)
+
+29. «How Does a Radioisotope Thermoelectric Generator Work? The Seebeck Effect» (https://s
+cience.nasa.gov/resource/how-does-a-radioisotope-thermoelectric-generator-rtg-work-the-se
+ebeck-effect/) (em inglês). NASA. Consultado em 26 de setembro de 2026
+30. Khan, Arshad; Joshi, Ravindra; Sharma, Manish Kumar; Ganguly, Anindita; Parashar, Parag;
+Wang, Ting-Wei; Lee, Sangmin; Kao, Fu-Cheng; Lin, Zong-Hong (janeiro de 2024).
+«Piezoelectric and triboelectric nanogenerators: Promising technologies for self-powered
+implantable biomedical devices» (https://www.sciencedirect.com/science/article/pii/S221128
+5523008881). Nano Energy (em inglês). 119. doi:10.1016/j.nanoen.2023.109051 (https://dx.
+doi.org/10.1016%2Fj.nanoen.2023.109051). Consultado em 26 de setembro de 2026
+31. DOE Fundamentals Handbook: Electrical Science, Volume 3 (https://www.energy.gov/sites/d
+efault/files/2026-04/DOE-HDBK-1011-92_VOL3.pdf) (PDF) (em inglês). [S.l.]: Departamento
+de Energia dos Estados Unidos. 1992. Consultado em 26 de setembro de 2026
+32. «Supercritical CO2 Tech Team» (https://www.energy.gov/supercritical-co2-tech-team) (em
+inglês). Departamento de Energia dos Estados Unidos. Consultado em 26 de setembro de
+2026
+33. Crespi, F.; Rodríguez de Arriba, P.; Sánchez, D.; Ayub, A.; Di Marcoberardino, G.; Invernizzi,
+C. M.; Martínez, G. S.; Iora, P.; Di Bona, D.; Binotti, M.; Manzolini, G. (1 de janeiro de 2022).
+«Thermal efficiency gains enabled by using CO2 mixtures in supercritical power cycles».
+Energy (em inglês). 238. doi:10.1016/j.energy.2021.121899 (https://dx.doi.org/10.1016%2Fj.
+energy.2021.121899)
+34. «DOE Explains...Batteries» (https://www.energy.gov/science/doe-explainsbatteries) (em
+inglês). Departamento de Energia dos Estados Unidos. Consultado em 26 de setembro de
+2026. Cópia arquivada em 12 de setembro de 2026 (http://web.archive.org/web/2026091206
+5114/https://www.energy.gov/science/doe-explainsbatteries)
+35. «Findings from Storage Innovations 2030: Zinc Batteries» (https://www.energy.gov/sites/defa
+ult/files/2023-09/5_Technology%20Strategy%20Assessment%20-%20%235%20Zinc%20Bat
+teries_508.pdf) (PDF) (em inglês). Departamento de Energia dos Estados Unidos. Julho de
+2023. Consultado em 26 de setembro de 2026
+36. «Fuel Cells» (https://www.energy.gov/cmei/fuels/fuel-cells) (em inglês). Departamento de
+Energia dos Estados Unidos. Consultado em 26 de setembro de 2026. Cópia arquivada em
+20 de setembro de 2026 (http://web.archive.org/web/20260920081430/https://www.energy.g
+ov/cmei/fuels/fuel-cells)
+37. «Unlocking the Potential of Marine Energy Using Hydrogen Generation Technologies» (http
+s://www.nrel.gov/docs/fy22osti/82538.pdf) (PDF) (em inglês). National Renewable Energy
+Laboratory. 2022. p. 25. Consultado em 26 de setembro de 2026
+38. Adams, Tom; Revankar, Shripad; Cheu, Darrel; Cabauy, Peter (2023). «High-Energy Dense
+Betavoltaics for Unattended Operation in Extreme Environments» (https://www.nasa.gov/wpcontent/uploads/2024/01/04-nasa-workshop-adams.pdf) (PDF) (em inglês). NASA.
+Consultado em 26 de setembro de 2026. Cópia arquivada (PDF) em 21 de março de 2025 (h
+ttp://web.archive.org/web/20250321051627/https://www.nasa.gov/wp-content/uploads/2024/
+01/04-nasa-workshop-adams.pdf)
+39. «Direct Power Extraction: Magnetohydrodynamic Heat Engines by Rigel Woodside» (https://
+www.energy.gov/hgeo/direct-power-extraction-magnetohydrodynamic-heat-engines-rigel-wo
+odside) (em inglês). Departamento de Energia dos Estados Unidos. Consultado em 26 de
+setembro de 2026. Cópia arquivada em 6 de julho de 2026 (http://web.archive.org/web/2026
+0706175629/https://www.energy.gov/hgeo/direct-power-extraction-magnetohydrodynamic-he
+at-engines-rigel-woodside)
+40. «Biomass Basics: The Facts About Bioenergy» (https://www.energy.gov/sites/prod/files/201
+5/07/f24/biomass_basics.pdf) (PDF) (em inglês). Departamento de Energia dos Estados
+Unidos. Consultado em 27 de setembro de 2026
+
+41. «Biopower: Energy for Heat and Electricity» (https://www.energy.gov/cmei/fuels/biopower-en
+ergy-heat-and-electricity) (em inglês). Departamento de Energia dos Estados Unidos.
+Consultado em 27 de setembro de 2026. Cópia arquivada em 27 de setembro de 2026 (htt
+p://web.archive.org/web/20260927180511/https://www.energy.gov/cmei/fuels/biopower-ener
+gy-heat-and-electricity)
+42. «Marine Energy Basics» (https://www.energy.gov/cmei/water/marine-energy-basics) (em
+inglês). Departamento de Energia dos Estados Unidos. Consultado em 26 de setembro de
+2026
+43. «Thermal Storage System Concentrating Solar-Thermal Power Basics» (https://www.energy.
+gov/cmei/systems/thermal-storage-system-concentrating-solar-thermal-power-basics) (em
+inglês). Departamento de Energia dos Estados Unidos. Consultado em 27 de setembro de
+2026. Cópia arquivada em 28 de setembro de 2026 (http://web.archive.org/web/2026092806
+2519/https://www.energy.gov/cmei/systems/thermal-storage-system-concentrating-solar-ther
+mal-power-basics)
+44. «Global Energy Review 2025: Electricity» (https://www.iea.org/reports/global-energy-review2025/electricity) (em inglês). Agência Internacional de Energia. 2025. Consultado em 26 de
+setembro de 2026. Cópia arquivada em 27 de setembro de 2026 (http://web.archive.org/we
+b/20260927193251/https://www.iea.org/reports/global-energy-review-2025/electricity)
+45. «Renewable Power Generation Costs in 2024» (https://www.irena.org/Digital-Report/Renew
+able-Power-Generation-Costs-in-2024) (em inglês). Agência Internacional para as Energias
+Renováveis. 2025. Consultado em 26 de setembro de 2026
+46. «Solar thermal power plants» (https://www.eia.gov/energyexplained/solar/solar-thermal-pow
+er-plants.php) (em inglês). Energy Information Administration. Consultado em 26 de
+setembro de 2026. Cópia arquivada em 27 de setembro de 2026 (http://web.archive.org/we
+b/20260927182904/https://www.eia.gov/energyexplained/solar/solar-thermal-power-plants.p
+hp)
+47. «Optimizing Solar Photovoltaic Performance for Longevity» (https://www.energy.gov/cmei/fe
+mp/optimizing-solar-photovoltaic-performance-longevity) (em inglês). Departamento de
+Energia dos Estados Unidos. Consultado em 26 de setembro de 2026. Cópia arquivada em
+27 de setembro de 2026 (http://web.archive.org/web/20260927162255/https://www.energy.g
+ov/cmei/femp/optimizing-solar-photovoltaic-performance-longevity)
+48. «Solar plants typically install more panel capacity relative to their inverter capacity» (https://
+www.eia.gov/todayinenergy/detail.php?id=35372) (em inglês). Energy Information
+Administration. 16 de março de 2018. Consultado em 26 de setembro de 2026. Cópia
+arquivada em 24 de agosto de 2026 (http://web.archive.org/web/20260824223146/https://w
+ww.eia.gov/todayinenergy/detail.php?id=35372)
+49. «Renewable capacity statistics 2026» (https://www.irena.org/-/media/Files/IRENA/Agency/P
+ublication/2026/Mar/IRENA_DAT_RE_capacity_statistics_2026.pdf) (PDF) (em inglês).
+Agência Internacional para as Energias Renováveis. 2026. Consultado em 26 de setembro
+de 2026. Cópia arquivada (PDF) em 17 de setembro de 2026 (http://web.archive.org/web/20
+260917150531/https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2026/Mar/IRE
+NA_DAT_RE_capacity_statistics_2026.pdf)
+50. «Hoover Dam: Frequently Asked Questions and Answers» (https://www.usbr.gov/lc/hooverd
+am/faqs/powerfaq.html) (em inglês). Bureau of Reclamation. Consultado em 26 de setembro
+de 2026. Cópia arquivada em 27 de setembro de 2026 (http://web.archive.org/web/2026092
+7192414/https://www.usbr.gov/lc/hooverdam/faqs/powerfaq.html)
+51. «How Hydropower Works» (https://www.energy.gov/cmei/water/how-hydropower-works) (em
+inglês). Departamento de Energia dos Estados Unidos. Consultado em 26 de setembro de
+2026. Cópia arquivada em 28 de setembro de 2026 (http://web.archive.org/web/2026092803
+2113/https://www.energy.gov/cmei/water/how-hydropower-works)
+
+52. «Types of Hydropower Plants» (https://www.energy.gov/cmei/water/types-hydropower-plant
+s) (em inglês). Departamento de Energia dos Estados Unidos. Consultado em 26 de
+setembro de 2026. Cópia arquivada em 27 de setembro de 2026 (http://web.archive.org/we
+b/20260927214547/https://www.energy.gov/cmei/water/types-hydropower-plants)
+53. «Hydroelectricity» (https://www.iea.org/energy-system/renewables/hydroelectricity) (em
+inglês). Agência Internacional de Energia. Consultado em 26 de setembro de 2026. Cópia
+arquivada em 15 de setembro de 2026 (http://web.archive.org/web/20260915140926/https://
+www.iea.org/energy-system/renewables/hydroelectricity)
+54. «Types of Hydropower Turbines» (https://www.energy.gov/cmei/water/types-hydropower-turb
+ines) (em inglês). Departamento de Energia dos Estados Unidos. Consultado em 27 de
+setembro de 2026. Cópia arquivada em 27 de setembro de 2026 (http://web.archive.org/we
+b/20260927162927/https://www.energy.gov/cmei/water/types-hydropower-turbines)
+55. «Global Energy Review 2025: Electricity» (https://www.iea.org/reports/global-energy-review2025/electricity) (em inglês). Agência Internacional de Energia. 2025. Consultado em 26 de
+setembro de 2026. Cópia arquivada em 27 de setembro de 2026 (http://web.archive.org/we
+b/20260927193251/https://www.iea.org/reports/global-energy-review-2025/electricity)
+56. «Three Gorges Project» (https://www.ctg.com.cn/ctgenglish/business/clean_energy/hydropo
+wer7/2024080621171845881/index.html) (em inglês). China Three Gorges Corporation.
+Consultado em 26 de setembro de 2026
+57. Gasch, Robert; Twele, Jochen, eds. (2011). Wind Power Plants: Fundamentals, Design,
+Construction and Operation (https://link.springer.com/book/10.1007/978-3-642-22938-1) (em
+inglês). [S.l.]: Springer. p. 11. ISBN 978-3-642-22938-1. doi:10.1007/978-3-642-22938-1 (htt
+ps://dx.doi.org/10.1007%2F978-3-642-22938-1). Consultado em 26 de setembro de 2026.
+Cópia arquivada em 21 de dezembro de 2025 (http://web.archive.org/web/20251221155027/
+https://link.springer.com/book/10.1007/978-3-642-22938-1)
+58. Watts, Jonathan; Huang, Cecily (19 de março de 2012). «Winds of change blow through
+China as spending on renewable energy soars» (https://www.theguardian.com/world/2012/m
+ar/19/china-windfarms-renewable-energy). The Guardian (em inglês). Consultado em 26 de
+setembro de 2026
+59. «Annual report 2019: Strong year with continued strategic progress, global expansion and
+very satisfactory financials» (https://orsted.com/en/company-announcement-list/2020/01/197
+7248) (em inglês). Ørsted. 30 de janeiro de 2020. Consultado em 26 de setembro de 2026.
+Cópia arquivada em 1 de agosto de 2026 (http://web.archive.org/web/20260801085259/http
+s://orsted.com/en/company-announcement-list/2020/01/1977248)
+60. «Wind Turbines: the Bigger, the Better» (https://www.energy.gov/cmei/wind/articles/wind-turb
+ines-bigger-better) (em inglês). Departamento de Energia dos Estados Unidos. Consultado
+em 26 de setembro de 2026
+61. «Wind energy and the environment» (https://www.eia.gov/energyexplained/wind/wind-energ
+y-and-the-environment.php) (em inglês). Energy Information Administration. Consultado em
+26 de setembro de 2026. Cópia arquivada em 27 de setembro de 2026 (http://web.archive.o
+rg/web/20260927172933/https://www.eia.gov/energyexplained/wind/wind-energy-and-the-en
+vironment.php)
+62. «Radar Interference» (https://www.energy.gov/cmei/systems/windexchange/radar-interferen
+ce) (em inglês). Departamento de Energia dos Estados Unidos. Consultado em 26 de
+setembro de 2026. Cópia arquivada em 27 de setembro de 2026 (http://web.archive.org/we
+b/20260927212448/https://www.energy.gov/cmei/systems/windexchange/radar-interference)
+63. «Biomass explained» (https://www.eia.gov/energyexplained/biomass/) (em inglês). Energy
+Information Administration. Consultado em 26 de setembro de 2026
+
+64. Marafon, Anderson Carlos; Santiago, Antonio Dias; Amaral, Andre Felipe Camara; Bierhals,
+Adriana Neutzling; Paiva, Hugo Leoncio; Guimaraes, Victor dos Santos (2016). Uso da
+biomassa para a geração de energia (https://www.infoteca.cnptia.embrapa.br/handle/doc/10
+63559). Aracaju: Embrapa Tabuleiros Costeiros. Consultado em 26 de setembro de 2026.
+Cópia arquivada em 2 de agosto de 2022 (http://web.archive.org/web/20220802175118/http
+s://www.infoteca.cnptia.embrapa.br/handle/doc/1063559)
+65. «Waste-to-energy (Municipal Solid Waste)» (https://www.eia.gov/energyexplained/biomass/
+waste-to-energy.php) (em inglês). Energy Information Administration. Consultado em 27 de
+setembro de 2026
+66. «Biomass and the environment» (https://www.eia.gov/energyexplained/biomass/biomass-an
+d-the-environment.php) (em inglês). Energy Information Administration. Consultado em 27
+de setembro de 2026
+67. «Geothermal power plants» (https://www.eia.gov/energyexplained/geothermal/geothermal-p
+ower-plants.php) (em inglês). Energy Information Administration. Consultado em 26 de
+setembro de 2026. Cópia arquivada em 27 de setembro de 2026 (http://web.archive.org/we
+b/20260927180047/https://www.eia.gov/energyexplained/geothermal/geothermal-power-plan
+ts.php)
+68. «Enhanced Geothermal Systems» (https://www.energy.gov/hgeo/geothermal/enhanced-geot
+hermal-systems) (em inglês). Departamento de Energia dos Estados Unidos. Consultado
+em 26 de setembro de 2026
+69. «Marine Energy Program» (https://www.energy.gov/cmei/water/marine-energy-program) (em
+inglês). Departamento de Energia dos Estados Unidos. Consultado em 27 de setembro de
+2026. Cópia arquivada em 28 de setembro de 2026 (http://web.archive.org/web/2026092806
+2129/https://www.energy.gov/cmei/water/marine-energy-program)
+70. «Hydropower explained: Tidal power» (https://www.eia.gov/energyexplained/hydropower/tida
+l-power.php) (em inglês). Energy Information Administration. Consultado em 26 de setembro
+de 2026
+71. «Annual Report 2011» (https://www.statkraft.com/globalassets/0/.com/6-investor-relations/re
+ports-and-presentations/2004-2013-reports-and-presentations/2011/statkraft_annual_report_
+2011_web_tcm9-21037.pdf) (PDF) (em inglês). Statkraft. 2012. Consultado em 26 de
+setembro de 2026. Cópia arquivada (PDF) em 27 de setembro de 2026 (http://web.archive.or
+g/web/20260927163528/https://www.statkraft.com/globalassets/0/.com/6-investor-relations/r
+eports-and-presentations/2004-2013-reports-and-presentations/2011/statkraft_annual_report
+_2011_web_tcm9-21037.pdf)
+72. «Boom and Bust Coal 2026» (https://globalenergymonitor.org/sites/default/files/2026-05/GE
+M-Boom-and-Bust-Coal-2026.pdf) (PDF) (em inglês). Global Energy Monitor. 2026.
+Consultado em 26 de setembro de 2026
+73. «Global Coal Plant Tracker» (https://globalenergymonitor.org/projects/global-coal-plant-track
+er) (em inglês). Global Energy Monitor. Consultado em 26 de setembro de 2026. Cópia
+arquivada em 24 de setembro de 2026 (http://web.archive.org/web/20260924072933/https://
+globalenergymonitor.org/projects/global-coal-plant-tracker)
+74. Birol, Fatih; Malpass, David (8 de outubro de 2021). «It's critical to tackle coal emissions –
+Analysis» (https://www.iea.org/commentaries/its-critical-to-tackle-coal-emissions) (em
+inglês). Agência Internacional de Energia. Consultado em 26 de setembro de 2026. Cópia
+arquivada em 27 de setembro de 2026 (http://web.archive.org/web/20260927184406/https://
+www.iea.org/commentaries/its-critical-to-tackle-coal-emissions)
+75. «Electricity 2026: Supply» (https://www.iea.org/reports/electricity-2026/supply) (em inglês).
+Agência Internacional de Energia. 6 de fevereiro de 2026. Consultado em 26 de setembro
+de 2026. Cópia arquivada em 27 de setembro de 2026 (http://web.archive.org/web/2026092
+7203143/https://www.iea.org/reports/electricity-2026/supply)
+
+76. «How Gas Turbine Power Plants Work» (https://www.energy.gov/hgeo/how-gas-turbine-pow
+er-plants-work) (em inglês). Departamento de Energia dos Estados Unidos. Consultado em
+26 de setembro de 2026
+77. «Electricity in the U.S.» (https://www.eia.gov/energyexplained/electricity/electricity-in-the-us.
+php) (em inglês). Energy Information Administration. Consultado em 27 de setembro de
+2026. Cópia arquivada em 28 de setembro de 2026 (http://web.archive.org/web/2026092801
+5545/https://www.eia.gov/energyexplained/electricity/electricity-in-the-us.php)
+78. «Nuclear power plants: types of reactors» (https://www.eia.gov/energyexplained/nuclear/nucl
+ear-power-plants-types-of-reactors.php) (em inglês). Energy Information Administration.
+Consultado em 26 de setembro de 2026. Cópia arquivada em 25 de setembro de 2026 (htt
+p://web.archive.org/web/20260925185453/https://www.eia.gov/energyexplained/nuclear/nucl
+ear-power-plants-types-of-reactors.php)
+79. «Nuclear power and the environment» (https://www.eia.gov/energyexplained/nuclear/nuclear
+-power-and-the-environment.php) (em inglês). Energy Information Administration.
+Consultado em 26 de setembro de 2026. Cópia arquivada em 27 de setembro de 2026 (htt
+p://web.archive.org/web/20260927171552/https://www.eia.gov/energyexplained/nuclear/nucl
+ear-power-and-the-environment.php)
+80. «Backgrounder on Improved Plant Safety Performance» (https://www.nrc.gov/regulations-leg
+islation/fact-sheets-brochures/backgrounder-on-improved-plant-safety-performance) (em
+inglês). Nuclear Regulatory Commission. Consultado em 26 de setembro de 2026
+81. Kugelmass, Bret (25 de fevereiro de 2020). «Saving The World Just Got Easier» (https://me
+dium.com/@EnergyImpact/saving-the-world-just-got-easier-10a57b45e108) (em inglês).
+Energy Impact Center. Consultado em 26 de setembro de 2026. Cópia arquivada em 27 de
+setembro de 2026 (http://web.archive.org/web/20260927171301/https://medium.com/@Ener
+gyImpact/saving-the-world-just-got-easier-10a57b45e108)
+82. «Could Advanced Reactors Make Carbon Capture Systems More Viable?» (https://www.ene
+rgy.gov/ne/articles/could-advanced-reactors-make-carbon-capture-systems-more-viable)
+(em inglês). Departamento de Energia dos Estados Unidos. 7 de setembro de 2023.
+Consultado em 26 de setembro de 2026. Cópia arquivada em 27 de setembro de 2026 (htt
+p://web.archive.org/web/20260927191051/https://www.energy.gov/ne/articles/could-advance
+d-reactors-make-carbon-capture-systems-more-viable)
+83. «Frequently Asked Questions: Fusion Energy» (https://www.iter.org/faqs?thematic=68) (em
+inglês). ITER. Consultado em 26 de setembro de 2026
+84. «Waste Heat to Power Systems» (https://www.epa.gov/sites/default/files/2015-07/document
+s/waste_heat_to_power_systems.pdf) (PDF) (em inglês). Agência de Proteção Ambiental dos
+Estados Unidos. Consultado em 27 de setembro de 2026. Cópia arquivada (PDF) em 27 de
+setembro de 2026 (http://web.archive.org/web/20260927232312/https://www.epa.gov/sites/d
+efault/files/2015-07/documents/waste_heat_to_power_systems.pdf)
+85. «Opportunities for Cogeneration with Nuclear Energy» (https://www-pub.iaea.org/MTCD/pub
+lications/PDF/P1862_web.pdf) (PDF) (em inglês). Agência Internacional de Energia Atômica.
+Consultado em 26 de setembro de 2026
+86. «Solar Integration: Inverters and Grid Services Basics» (https://www.energy.gov/cmei/syste
+ms/solar-integration-inverters-and-grid-services-basics) (em inglês). Departamento de
+Energia dos Estados Unidos. Consultado em 26 de setembro de 2026. Cópia arquivada em
+27 de setembro de 2026 (http://web.archive.org/web/20260927232323/https://www.energy.g
+ov/cmei/systems/solar-integration-inverters-and-grid-services-basics)
+87. «Delivery to consumers» (https://www.eia.gov/energyexplained/electricity/delivery-to-consu
+mers.php) (em inglês). Energy Information Administration. Consultado em 26 de setembro
+de 2026
+
+88. «Centralized Generation of Electricity and its Impacts on the Environment» (https://www.epa.
+gov/energy/centralized-generation-electricity-and-its-impacts-environment). US EPA (em
+inglês). 4 de agosto de 2015. Consultado em 21 de maio de 2019. Cópia arquivada em 19
+de maio de 2019 (https://web.archive.org/web/20190519055244/https://www.epa.gov/energ
+y/centralized-generation-electricity-and-its-impacts-environment)
+89. «Sistemas Isolados» (https://www.epe.gov.br/pt/publicacoes-dados-abertos/publicacoes/sist
+emas-isolados). Empresa de Pesquisa Energética. Consultado em 26 de setembro de 2026
+90. «Distributed Generation of Electricity and its Environmental Impacts» (https://www.epa.gov/e
+nergy/distributed-generation-electricity-and-its-environmental-impacts) (em inglês). Agência
+de Proteção Ambiental dos Estados Unidos. Consultado em 26 de setembro de 2026. Cópia
+arquivada em 27 de setembro de 2026 (http://web.archive.org/web/20260927173651/https://
+www.epa.gov/energy/distributed-generation-electricity-and-its-environmental-impacts)
+91. Joshi, Siddharth; Mittal, Shivika; Holloway, Paul; Shukla, Priyadarshi Ramprasad; Ó
+Gallachóir, Brian; Glynn, James (5 de outubro de 2021). «High resolution global
+spatiotemporal assessment of rooftop solar photovoltaics potential for renewable electricity
+generation». Nature Communications (em inglês). 12 (1). ISSN 2041-1723 (https://www.worl
+dcat.org/issn/2041-1723). doi:10.1038/s41467-021-25720-2 (https://dx.doi.org/10.1038%2Fs
+41467-021-25720-2)
+92. «Virtual Power Plants Projects» (https://www.energy.gov/edf/virtual-power-plants-projects)
+(em inglês). Departamento de Energia dos Estados Unidos. Consultado em 26 de setembro
+de 2026. Cópia arquivada em 27 de setembro de 2026 (http://web.archive.org/web/2026092
+7185832/https://www.energy.gov/edf/virtual-power-plants-projects)
+93. «Integrating Solar and Wind» (https://www.iea.org/reports/integrating-solar-and-wind) (em
+inglês). Agência Internacional de Energia. 18 de setembro de 2024. Consultado em 26 de
+setembro de 2026. Cópia arquivada em 28 de setembro de 2026 (http://web.archive.org/we
+b/20260928022655/https://www.iea.org/reports/integrating-solar-and-wind)
+94. «Electricity demand patterns matter for valuing electricity supply resources» (https://www.ei
+a.gov/todayinenergy/detail.php?id=12711) (em inglês). Energy Information Administration.
+Consultado em 26 de setembro de 2026. Cópia arquivada em 5 de maio de 2026 (http://we
+b.archive.org/web/20260505053404/https://www.eia.gov/todayinenergy/detail.php?id=12711)
+95. «Will more wind and solar PV capacity lead to more generation curtailment?» (https://www.ie
+a.org/reports/renewable-energy-market-update-june-2023/will-more-wind-and-solar-pv-capa
+city-lead-to-more-generation-curtailment) (em inglês). Agência Internacional de Energia.
+Junho de 2023. Consultado em 26 de setembro de 2026
+96. Allen-Dumas, Melissa R.; KC, Binita; Cunliff, Colin I. (16 de agosto de 2019). «Extreme
+Weather and Climate Vulnerabilities of the Electric Grid: A Summary of Environmental
+Sensitivity Quantification Methods» (https://www.energy.gov/sites/prod/files/2019/09/f67/Oa
+k%20Ridge%20National%20Laboratory%20EIS%20Response.pdf) (PDF) (em inglês). Oak
+Ridge National Laboratory. Consultado em 26 de setembro de 2026
+97. «How can energy efficiency alleviate rising heatwave-driven electricity demand?» (https://ww
+w.iea.org/reports/energy-efficiency-2024/how-can-energy-efficiency-alleviate-rising-heatwav
+e-driven-electricity-demand) (em inglês). Agência Internacional de Energia. 2024.
+Consultado em 26 de setembro de 2026. Cópia arquivada em 27 de setembro de 2026 (htt
+p://web.archive.org/web/20260927214231/https://www.iea.org/reports/energy-efficiency-202
+4/how-can-energy-efficiency-alleviate-rising-heatwave-driven-electricity-demand)
+98. «Energy storage for electricity generation» (https://www.eia.gov/energyexplained/electricity/e
+nergy-storage-for-electricity-generation.php) (em inglês). Energy Information Administration.
+Consultado em 26 de setembro de 2026
+
+99. Makarov, Y. V.; Yang, B.; DeSteese, J. G.; Lu, S.; Miller, C. H.; Nyeng, P.; Ma, J.;
+Hammerstrom, D. J.; Viswanathan, V. V. (junho de 2008). «Wide-Area Energy Storage and
+Management System to Balance Intermittent Resources in the Bonneville Power
+Administration and California ISO Control Areas» (https://www.pnnl.gov/main/publications/ex
+ternal/technical_reports/PNNL-17574.pdf) (PDF) (em inglês). Pacific Northwest National
+Laboratory. Consultado em 26 de setembro de 2026
+100. «Hybrid Power Plants Data Update» (https://emp.lbl.gov/hybrid) (em inglês). Lawrence
+Berkeley National Laboratory. Consultado em 26 de setembro de 2026
+101. «Glossary: Net generation» (https://www.eia.gov/tools/glossary/index.php?id=N) (em inglês).
+Energy Information Administration. Consultado em 26 de setembro de 2026
+102. «Electricity generation, capacity, and sales in the United States» (https://www.eia.gov/energy
+explained/electricity/electricity-in-the-us-generation-capacity-and-sales.php) (em inglês).
+Energy Information Administration. Consultado em 26 de setembro de 2026. Cópia
+arquivada em 25 de setembro de 2026 (http://web.archive.org/web/20260925095051/https://
+www.eia.gov/energyexplained/electricity/electricity-in-the-us-generation-capacity-and-sales.p
+hp)
+103. «Matriz energética e elétrica» (https://www.epe.gov.br/pt/abcdenergia/matriz-energetica-e-el
+etrica). Empresa de Pesquisa Energética. Consultado em 26 de setembro de 2026. Cópia
+arquivada em 27 de setembro de 2026 (http://web.archive.org/web/20260927163316/https://
+www.epe.gov.br/pt/abcdenergia/matriz-energetica-e-eletrica)
+104. «How much of world energy production and consumption is from renewable energy?» (http
+s://www.eia.gov/tools/faqs/faq.php?id=527&t=1) (em inglês). Energy Information
+Administration. Consultado em 26 de setembro de 2026. Cópia arquivada em 27 de
+setembro de 2026 (http://web.archive.org/web/20260927212259/https://www.eia.gov/tools/fa
+qs/faq.php?id=527&t=1)
+105. Ritchie, Hannah (6 de junho de 2026). «What is the largest source of electricity in each
+country?» (https://ourworldindata.org/data-insights/what-is-the-largest-source-of-electricity-in
+-each-country) (em inglês). Our World in Data. Consultado em 26 de setembro de 2026.
+Cópia arquivada em 27 de setembro de 2026 (http://web.archive.org/web/20260927214159/
+https://ourworldindata.org/data-insights/what-is-the-largest-source-of-electricity-in-each-coun
+try)
+106. «Energia renovável: hidrelétrica, biomassa, eólica, solar, oceânica» (https://www.epe.gov.br/
+sites-pt/publicacoes-dados-abertos/publicacoes/PublicacoesArquivos/publicacao-172/Energi
+a%20Renov%C3%A1vel%20-%20Online%2016maio2016.pdf) (PDF). Empresa de Pesquisa
+Energética. 2016. Consultado em 26 de setembro de 2026. Cópia arquivada (PDF) em 1 de
+setembro de 2026 (http://web.archive.org/web/20260901093430/https://www.epe.gov.br/site
+s-pt/publicacoes-dados-abertos/publicacoes/PublicacoesArquivos/publicacao-172/Energia%
+20Renov%C3%A1vel%20-%20Online%2016maio2016.pdf)
+107. «Notas explicativas do Anuário Estatístico de Energia Elétrica 2026» (https://dashboard.epe.
+gov.br/apps/anuario-livro/livro/pt/notas_explicativas.html). Empresa de Pesquisa Energética.
+2026. Consultado em 26 de setembro de 2026. Cópia arquivada em 27 de setembro de
+2026 (http://web.archive.org/web/20260927165726/https://dashboard.epe.gov.br/apps/anuar
+io-livro/livro/pt/notas_explicativas.html)
+108. «EPE publica o Relatório Síntese do Balanço Energético Nacional 2025» (https://www.epe.g
+ov.br/pt/imprensa/noticias/epe-publica-o-relatorio-sintese-do-balanco-energetico-nacional-20
+25). Empresa de Pesquisa Energética. 29 de maio de 2025. Consultado em 26 de setembro
+de 2026. Cópia arquivada em 29 de agosto de 2026 (http://web.archive.org/web/202608292
+10434/https://www.epe.gov.br/pt/imprensa/noticias/epe-publica-o-relatorio-sintese-do-balanc
+o-energetico-nacional-2025)
+109. «EPE publica o Relatório Síntese do Balanço Energético Nacional 2026» (https://www.epe.g
+ov.br/pt/imprensa/noticias/epe-publica-o-relatorio-sintese-do-balanco-energetico-nacional-20
+26). Empresa de Pesquisa Energética. 3 de junho de 2026. Consultado em 26 de setembro
+de 2026
+
+110. «Recorde de produção de renováveis abastece 71% do consumo de eletricidade em 2024»
+(https://www.ren.pt/media/noticias/recorde-de-producao-de-renovaveis-abastece-71-do-cons
+umo-de-eletricidade-em-2024). Redes Energéticas Nacionais. 6 de janeiro de 2025.
+Consultado em 26 de setembro de 2026. Cópia arquivada em 27 de setembro de 2026 (htt
+p://web.archive.org/web/20260927221020/https://www.ren.pt/media/noticias/recorde-de-prod
+ucao-de-renovaveis-abastece-71-do-consumo-de-eletricidade-em-2024)
+111. «Consumo de energia elétrica atinge valor mais elevado de sempre em 2025» (https://www.
+ren.pt/pt-pt/repository/noticias/noticias/consumo-de-energia-eletrica-atinge-valor-mais-eleva
+do-de-sempre-em-2025). Redes Energéticas Nacionais. 1 de janeiro de 2026. Consultado
+em 26 de setembro de 2026. Cópia arquivada em 27 de setembro de 2026 (http://web.archi
+ve.org/web/20260927192310/https://www.ren.pt/pt-pt/repository/noticias/noticias/consumo-d
+e-energia-eletrica-atinge-valor-mais-elevado-de-sempre-em-2025)
+112. «Expansão da geração» (https://www.epe.gov.br/pt/areas-de-atuacao/energia-eletrica/expan
+sao-da-geracao). Empresa de Pesquisa Energética. Consultado em 26 de setembro de
+2026
+113. «Levelized Costs of New Generation Resources in the Annual Energy Outlook 2022» (http
+s://www.eia.gov/outlooks/aeo/electricity_generation.php) (em inglês). Energy Information
+Administration. 2022. Consultado em 26 de setembro de 2026
+114. «Prices and factors affecting prices» (https://www.eia.gov/energyexplained/electricity/pricesand-factors-affecting-prices.php) (em inglês). Energy Information Administration. Consultado
+em 26 de setembro de 2026. Cópia arquivada em 28 de setembro de 2026 (http://web.archi
+ve.org/web/20260928025630/https://www.eia.gov/energyexplained/electricity/prices-and-fact
+ors-affecting-prices.php)
+115. «Renewable Power Generation Costs in 2022» (https://www.irena.org/Publications/2023/Au
+g/Renewable-Power-Generation-Costs-in-2022) (em inglês). Agência Internacional para as
+Energias Renováveis. Agosto de 2023. Consultado em 26 de setembro de 2026. Cópia
+arquivada em 4 de agosto de 2026 (http://web.archive.org/web/20260804082738/https://ww
+w.irena.org/Publications/2023/Aug/Renewable-Power-Generation-Costs-in-2022)
+116. Denholm, Paul; Ong, Sean; Clark, N. (2012). «Grid Parity for Residential Photovoltaics in the
+United States: Key Drivers and Sensitivities» (https://research-hub.nlr.gov/en/publications/gri
+d-parity-for-residential-photovoltaics-in-the-united-states-ke/) (em inglês). National
+Renewable Energy Laboratory. Consultado em 26 de setembro de 2026. Cópia arquivada
+em 27 de setembro de 2026 (http://web.archive.org/web/20260927183349/https://research-h
+ub.nlr.gov/en/publications/grid-parity-for-residential-photovoltaics-in-the-united-states-ke/)
+117. «Market and system operation» (https://www.iea.org/reports/introduction-to-system-integrati
+on-of-renewables/market-and-system-operation) (em inglês). Agência Internacional de
+Energia. Consultado em 26 de setembro de 2026
+118. «Feed-in tariff for wind and solar PV projects» (https://www.iea.org/policies/5658-feed-in-tarif
+f-for-wind-and-solar-pv-projects) (em inglês). Agência Internacional de Energia. Consultado
+em 26 de setembro de 2026
+119. «Renewable Power Generation Costs in 2019» (https://www.irena.org/publications/2020/Ju
+n/Renewable-Power-Costs-in-2019) (em inglês). Agência Internacional para as Energias
+Renováveis. Junho de 2020. Consultado em 26 de setembro de 2026. Cópia arquivada em
+1 de agosto de 2026 (http://web.archive.org/web/20260801104230/https://www.irena.org/pub
+lications/2020/Jun/Renewable-Power-Costs-in-2019)
+120. Borenstein, Severin; Bushnell, James B. (novembro de 2022). «Do Two Electricity Pricing
+Wrongs Make a Right? Cost Recovery, Externalities, and Efficiency» (https://www.aeaweb.or
+g/articles?id=10.1257/pol.20190758). American Economic Journal: Economic Policy. 14 (4):
+80-110. doi:10.1257/pol.20190758 (https://dx.doi.org/10.1257%2Fpol.20190758).
+Consultado em 26 de setembro de 2026. Cópia arquivada em 12 de junho de 2026 (http://w
+eb.archive.org/web/20260612113732/https://www.aeaweb.org/articles?id=10.1257/pol.20190
+758)
+
+121. Fazeli, Reza; Do, Thang Nam; Overland, Indra; Pradnyaswari, Indira (3 de novembro de
+2025). «Southeast Asia faces high stranded asset risk from coal power investments».
+Energy Strategy Reviews. 62. ISSN 2211-467X (https://www.worldcat.org/issn/2211-467X).
+doi:10.1016/j.esr.2025.101971 (https://dx.doi.org/10.1016%2Fj.esr.2025.101971)
+122. «Sulfur Dioxide Basics» (https://www.epa.gov/so2-pollution/sulfur-dioxide-basics) (em
+inglês). Agência de Proteção Ambiental dos Estados Unidos. Consultado em 26 de
+setembro de 2026. Cópia arquivada em 22 de setembro de 2026 (http://web.archive.org/we
+b/20260922190509/https://www.epa.gov/so2-pollution/sulfur-dioxide-basics)
+123. «Key findings: Global Methane Tracker 2026» (https://www.iea.org/reports/global-methane-tr
+acker-2026/key-findings) (em inglês). Agência Internacional de Energia. 2026. Consultado
+em 26 de setembro de 2026. Cópia arquivada em 24 de setembro de 2026 (http://web.archi
+ve.org/web/20260924025155/https://www.iea.org/reports/global-methane-tracker-2026/key-fi
+ndings)
+124. Macknick, Jordan; Newmark, Robin; Heath, Garvin; Hallett, K. C. (março de 2011). «Review
+of Operational Water Consumption and Withdrawal Factors for Electricity Generating
+Technologies» (https://digital.library.unt.edu/ark:/67531/metadc847093/) (em inglês).
+National Renewable Energy Laboratory. doi:10.2172/1009674 (https://dx.doi.org/10.2172%2
+F1009674). Consultado em 26 de setembro de 2026. Cópia arquivada em 28 de dezembro
+de 2025 (http://web.archive.org/web/20251228123507/https://digital.library.unt.edu/ark:/6753
+1/metadc847093/)
+125. «The Role of Critical Minerals in Clean Energy Transitions» (https://www.iea.org/reports/the-r
+ole-of-critical-minerals-in-clean-energy-transitions) (em inglês). Agência Internacional de
+Energia. 2021. Consultado em 26 de setembro de 2026
+
+Leitura adicional
+Balanço Energético Nacional 2026 (https://www.epe.gov.br/pt/publicacoes-dados-abertos/pu
+blicacoes/balanco-energetico-nacional-ben). Empresa de Pesquisa Energética, 2026.
+Anuário Estatístico de Energia Elétrica 2026 (https://www.epe.gov.br/pt/publicacoes-dados-a
+bertos/publicacoes/anuario-estatistico-de-energia-eletrica). Empresa de Pesquisa
+Energética, 2026.
+Manual Metodológico do Balanço Energético Nacional (https://www.epe.gov.br/pt/publicaco
+es-dados-abertos/publicacoes/manual-metodologico-do-balanco-energetico-nacional).
+Empresa de Pesquisa Energética, 2022.
+Dados Técnicos 2025 (https://www.ren.pt/media/2cbfm5p4/ren-dados-te-cnicos-2025.pdf).
+Redes Energéticas Nacionais.
+Uso da biomassa para a geração de energia (https://www.infoteca.cnptia.embrapa.br/handl
+e/doc/1063559). Embrapa Tabuleiros Costeiros, 2016.
+Integrating Solar and Wind (https://www.iea.org/reports/integrating-solar-and-wind). Agência
+Internacional de Energia, 2024, em inglês.
+Electricity Grids and Secure Energy Transitions (https://www.iea.org/reports/electricity-gridsand-secure-energy-transitions). Agência Internacional de Energia, 2023, em inglês.
+Renewable Power Generation Costs in 2024 (https://www.irena.org/Digital-Report/Renewabl
+e-Power-Generation-Costs-in-2024). Agência Internacional para as Energias Renováveis,
+2025, em inglês.
+Climate Change 2022: Mitigation of Climate Change, Chapter 6: Energy Systems (https://w
+ww.ipcc.ch/report/ar6/wg3/chapter/chapter-6/). Painel Intergovernamental sobre Mudanças
+Climáticas, 2022, em inglês.
+
+Ligações externas
+Fontes de energia (https://www.epe.gov.br/pt/abcdenergia/fontes-de-energia), Empresa de
+Pesquisa Energética
+Balanço Energético Nacional: séries históricas (https://www.epe.gov.br/pt/publicacoes-dado
+s-abertos/publicacoes/BEN-Series-Historicas-Completas), Empresa de Pesquisa Energética
+O que é o Sistema Interligado Nacional (https://www.ons.org.br/paginas/sobre-o-sin/o-que-e
+-o-sin), Operador Nacional do Sistema Elétrico
+Dados do sistema elétrico português (https://datahub.ren.pt/pt/eletricidade/), Redes
+Energéticas Nacionais
+How electricity is generated (https://www.eia.gov/energyexplained/electricity/how-electricity-i
+s-generated.php), Energy Information Administration, em inglês
+Electricity Data Explorer (https://ember-energy.org/data/electricity-data-explorer/), Ember,
+em inglês
+Electricity 2026 (https://www.iea.org/reports/electricity-2026), Agência Internacional de
+Energia, em inglês
+Estatísticas de capacidade e geração de eletricidade renovável (https://pxweb.irena.org/pxw
+eb/en/IRENASTAT), Agência Internacional para as Energias Renováveis, em inglês
+Obtida de "https://pt.wikipedia.org/w/index.php?title=Geração_de_eletricidade&oldid=73076111"
+
+
