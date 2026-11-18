@@ -5,11 +5,10 @@ from tokenizers import Regex, Tokenizer
 from tokenizers.models import BPE
 from tokenizers.pre_tokenizers import Split
 from tokenizers.trainers import BpeTrainer
-
+from tokenizers.normalizers import Lowercase, Replace, Sequence
 from tokenizer_util import export_token_dictionary
 
 SCRIPT_DIR = Path(__file__).resolve().parent
-
 
 def _build_base_tokenizer(unk_token: str = "<unk>") -> Tokenizer:
     """
@@ -18,16 +17,20 @@ def _build_base_tokenizer(unk_token: str = "<unk>") -> Tokenizer:
     one space, and only at the very end of the token.
     """
     tokenizer = Tokenizer(BPE(unk_token=unk_token))
+    tokenizer.normalizer = Sequence([
+        Lowercase(),
+        Replace(Regex(r"[^\w\s]"), " "),   # pontuação vira espaço
+        Replace(Regex(r"\s+"), " "),       # espaços e quebras de linha viram um espaço
+    ])
     tokenizer.pre_tokenizer = Split(
         pattern=Regex(r"\w+ ?|[^\w\s] ?|\s"),
         behavior="isolated",
     )
     return tokenizer
 
-
 def generate_bpe_dictionary(
     text_corpus: Union[str, Path, Iterable[str]],
-    vocab_size: int = 2048,
+    vocab_size: int = 4000,
     special_tokens: Optional[List[str]] = None,
     min_frequency: int = 2,
     export_path: Optional[Union[str, Path]] = None,
@@ -101,8 +104,8 @@ def main() -> None:
     parser.add_argument(
         "-v", "--vocab-size",
         type=int,
-        default=2048,
-        help="Target vocabulary size (default: 2048).",
+        default=4000,
+        help="Target vocabulary size (default: 4000).",
     )
     parser.add_argument(
         "-m", "--min-frequency",
