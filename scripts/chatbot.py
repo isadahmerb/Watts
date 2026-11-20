@@ -23,12 +23,22 @@ MSG_FALLBACK = ("Não consegui entender com segurança a sua pergunta, ou ela pa
 _base = indexar(carregar_base())
 _modelo = TfIdf([e["tokens"] for e in _base])
 
+USAR_CONTEXTO = False        # melhoria 2: o avaliar.py liga com --contexto
+MAX_PALAVRAS_FOLLOWUP = 5    # pergunta curta = provável continuação
 
-def responder(pergunta: str) -> dict:
+def _eh_followup(pergunta: str) -> bool:
+    return len(pergunta.split()) <= MAX_PALAVRAS_FOLLOWUP
+
+
+def responder(pergunta: str, contexto_anterior: str | None = None) -> dict:
     texto = normalizar(pergunta)
     regras = [nome for nome, padrao in REGRAS if re.search(padrao, texto)]
 
-    (i1, s1), (i2, s2) = _modelo.buscar(preprocessar(pergunta), k=2)
+    consulta = pergunta
+    if USAR_CONTEXTO and contexto_anterior and _eh_followup(pergunta):
+        consulta = contexto_anterior + " " + pergunta
+
+    (i1, s1), (i2, s2) = _modelo.buscar(preprocessar(consulta), k=2)
     margem = s1 - s2
     entrada = _base[i1]
 
