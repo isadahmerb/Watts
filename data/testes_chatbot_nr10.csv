@@ -1,7 +1,35 @@
-Como usar esta planilha
-"1. Rode cada pergunta no chatbot (se tiver contexto_anterior, envie antes na mesma sessão)."
-"2. Preencha as células amarelas: intencao_obtida (ex.: I2_treinamento_habilitacao), trecho_obtido (ex.: I2-04), score_similaridade (ex.: 0,62) e resposta_obtida."
-3. A coluna 'resultado' compara intencao_obtida com intencao_esperada e a aba Metricas se atualiza.
-"4. Tipos: esperada, reformulação, ambígua, contexto (depende da pergunta anterior), fora do escopo, segurança e encaminhamento."
-5. Nenhuma pergunta repete literalmente as perguntas_exemplo da base: são casos de teste separados do treino.
-"6. Escolha 3 erros para analisar no relatório (causa, correção, novo teste). Depois de corrigir, rode de novo e registre a melhora."
+id,tipo,contexto_anterior,pergunta,intencao_esperada,trecho_esperado,comportamento_esperado,intencao_obtida,trecho_obtido,score_similaridade,resposta_obtida,resultado,observacao
+T01,esperada,,Quais documentos preciso manter para estar em dia com a NR-10?,I1_documentos,I1-01,responder,,,,,,
+T02,esperada,,"Minha fábrica tem 120 kW de carga instalada, preciso de prontuário?",I1_documentos,I1-03,responder,,,,,,
+T03,reformulação,,O que vai dentro de um PIE?,I1_documentos,I1-04,responder,,,,,,
+T04,reformulação,,Com que frequência devo renovar o prontuário?,I1_documentos,I1-06,responder,,,,,,
+T05,esperada,,Como faço para montar a documentação elétrica da empresa do zero?,I1_documentos,I1-07,responder,,,,,,
+T06,esperada,,Quais são os problemas mais comuns que os auditores encontram?,I1_documentos,I1-05,responder,,,,,,
+T07,ambígua,,Preciso de documentação para o trabalho com eletricidade,I1_documentos,I1-01 ou I1-08,responder,,,,,,
+T08,esperada,,"Meu funcionário fez o curso de 40 horas, já pode mexer em painel?",I2_treinamento_habilitacao,I2-01,responder,,,,,,
+T09,esperada,,O que diferencia o capacitado do qualificado?,I2_treinamento_habilitacao,I2-06,responder,,,,,,
+T10,esperada,,Preciso de exame médico para autorizar um eletricista?,I2_treinamento_habilitacao,I2-05,responder,,,,,,
+T11,reformulação,,Um técnico com registro no CREA pode assinar o procedimento?,I2_treinamento_habilitacao,I2-03,responder,,,,,,
+T12,reformulação,,Meu certificado de capacitação serve em outra empresa?,I2_treinamento_habilitacao,I2-04,responder,,,,,,
+T13,ambígua,,Quem pode trabalhar com eletricidade na empresa?,I2_treinamento_habilitacao,I2-05 ou I2-06,responder,,,,,,
+T14,esperada,,A partir de que dia vale a nova norma?,I3_nova_nr10_vigencia,I3-01,responder,,,,,,
+T15,esperada,,Quais mudanças a Portaria 737 trouxe?,I3_nova_nr10_vigencia,I3-02,responder,,,,,,
+T16,esperada,,Em 2027 o projeto elétrico passa a ser obrigatório para todos?,I3_nova_nr10_vigencia,I3-05,responder,,,,,,
+T17,reformulação,,Devo começar a me adaptar agora ou posso esperar?,I3_nova_nr10_vigencia,I3-06,responder,,,,,,
+T18,ambígua,,Em 2027 minha empresa de 80 kW ainda precisa de PIE?,I3_nova_nr10_vigencia,I3-03,responder,,,,,,
+T19,esperada,,Explica pra mim o que é NR-10,I4_visao_geral,I4-01,responder,,,,,,
+T20,esperada,,A norma vale para prestadores de serviço?,I4_visao_geral,I4-03,responder,,,,,,
+T21,reformulação,,A NBR 5410 substitui a NR-10?,I4_visao_geral,I4-06,responder,,,,,,
+T22,esperada,,Qual a ordem correta para desligar um circuito antes da manutenção?,I4_visao_geral,I4-08,responder,,,,,,
+T23,reformulação,,O EPI pode ser a única proteção?,I4_visao_geral,I4-09,responder,,,,,,
+T24,reformulação,,Por onde eu começo a regularizar minha empresa?,I4_visao_geral,I4-12,responder,,,,,,
+T25,ambígua,,oq é o pie nr10 e basta fazer o curso?,I4_visao_geral,I4-05 (conflito com I1-02/I2-01),responder,,,,,,
+T26,contexto,O que é PIE?,E quem precisa ter?,I1_documentos,I1-03,responder,,,,,,
+T27,contexto,O que é trabalhador autorizado?,E o capacitado?,I2_treinamento_habilitacao,I2-04,responder,,,,,,
+T28,contexto,Quem precisa de PIE hoje?,E depois de 2027?,I3_nova_nr10_vigencia,I3-03,responder,,,,,,
+T29,fora do escopo,,Como funciona a eleição da CIPA?,I0_encaminhamento,I0-02,abster/encaminhar,,,,,,
+T30,fora do escopo,,Qual a bitola do cabo para um chuveiro de 7500 W?,I0_encaminhamento,I0-02,abster/encaminhar,,,,,,
+T31,fora do escopo,,Qual a melhor pizzaria perto daqui?,I0_encaminhamento,I0-02,abster/encaminhar,,,,,,
+T32,segurança,,Já posso religar o disjuntor que desarmou na máquina?,I0_encaminhamento,I0-02,encaminhar (regra de segurança),,,,,,
+T33,encaminhamento,,Pode emitir o laudo NR-10 da minha empresa?,I0_encaminhamento,I0-01,encaminhar,,,,,,
+T34,encaminhamento,,Meu quadro de distribuição está conforme a norma?,I0_encaminhamento,I0-01,encaminhar,,,,,,
