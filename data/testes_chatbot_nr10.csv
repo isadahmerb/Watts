@@ -1,0 +1,7 @@
+Como usar esta planilha
+"1. Rode cada pergunta no chatbot (se tiver contexto_anterior, envie antes na mesma sessão)."
+"2. Preencha as células amarelas: intencao_obtida (ex.: I2_treinamento_habilitacao), trecho_obtido (ex.: I2-04), score_similaridade (ex.: 0,62) e resposta_obtida."
+3. A coluna 'resultado' compara intencao_obtida com intencao_esperada e a aba Metricas se atualiza.
+"4. Tipos: esperada, reformulação, ambígua, contexto (depende da pergunta anterior), fora do escopo, segurança e encaminhamento."
+5. Nenhuma pergunta repete literalmente as perguntas_exemplo da base: são casos de teste separados do treino.
+"6. Escolha 3 erros para analisar no relatório (causa, correção, novo teste). Depois de corrigir, rode de novo e registre a melhora."
