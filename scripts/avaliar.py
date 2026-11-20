@@ -37,9 +37,11 @@ def intencao_obtida(r: dict, base_por_id: dict) -> str:
         return "I0_encaminhamento"
     return base_por_id[r["id"]]["intencao"]
 
-
 def main() -> None:
-    rotulo = next((a for a in sys.argv[1:] if not a.startswith("--")), "baseline")
+    nomes = [a for a in sys.argv[1:] if not a.startswith("--")]
+    if not nomes:
+        sys.exit("Uso: python avaliar.py <rotulo> [--contexto]")
+    rotulo = nomes[0]
     chatbot.USAR_CONTEXTO = "--contexto" in sys.argv
     base_por_id = {e["id"]: e for e in chatbot._base}
 
