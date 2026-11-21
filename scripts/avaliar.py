@@ -124,7 +124,7 @@ def main() -> None:
         if not ok:
             print(f"  {c['id']} [{c['tipo']}] {c['pergunta'][:60]}")
             print(f"      esperado: {c['trecho_esperado'] or '-'} / {comp}")
-            print(f"      obtido:   {r['id']} / {r['decisao']} | score {r['score']} | margem {r['margem']}")
+            print(f"      obtido:   {r['id']} / {r['decisao']} | score {r['score']} | margem {r['margem']} | 2º {r['segundo']}")
     avisos = [d for d in resp if d[7] and not d[6]]
     if avisos:
         print("\nIntenção certa, mas trecho diferente do esperado:")

@@ -41,8 +41,11 @@ def responder(pergunta: str, contexto_anterior: str | None = None) -> dict:
     (i1, s1), (i2, s2) = _modelo.buscar(preprocessar(consulta), k=2)
     margem = s1 - s2
     entrada = _base[i1]
+    entrada2 = _base[i2]
+    # a dúvida só conta quando o 1º e o 2º são de intenções diferentes
+    ambigua = margem < MARGEM and entrada["intencao"] != entrada2["intencao"]
 
-    if s1 < LIMIAR or margem < MARGEM:
+    if s1 < LIMIAR or ambigua:
         decisao, resposta = "fallback", MSG_FALLBACK
     elif entrada["intencao"] == "I0_encaminhamento":
         decisao, resposta = "encaminhamento", entrada["resposta"]
@@ -52,6 +55,7 @@ def responder(pergunta: str, contexto_anterior: str | None = None) -> dict:
             decisao, resposta = "resposta+aviso", resposta + AVISO
 
     return {"pergunta": pergunta, "decisao": decisao, "id": entrada["id"],
+            "segundo": entrada2["id"],
             "score": round(s1, 3), "margem": round(margem, 3),
             "regras": regras, "resposta": resposta}
 
