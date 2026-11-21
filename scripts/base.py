@@ -16,12 +16,12 @@ def carregar_base(caminho=CAMINHO_CSV) -> list[dict]:
     return entradas
 
 def texto_indexado(entrada: dict) -> str:
+    """O que o chatbot 'enxerga' de cada entrada na hora de comparar com a pergunta."""
     return " ".join([
         entrada["titulo"],
         entrada["palavras_chave"],
         " ".join(entrada["perguntas_exemplo"]),
     ])
-
 
 def indexar(entradas: list[dict]) -> list[dict]:
     for e in entradas:
