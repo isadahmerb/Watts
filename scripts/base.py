@@ -8,7 +8,9 @@ CAMINHO_CSV = Path(__file__).resolve().parent.parent / "data" / "base_conhecimen
 def carregar_base(caminho=CAMINHO_CSV) -> list[dict]:
     entradas = []
     with open(caminho, encoding="utf-8-sig", newline="") as f:
-        for linha in csv.DictReader(f, delimiter=";"):
+        for n, linha in enumerate(csv.DictReader(f, delimiter=";"), start=2):
+            if None in linha or None in linha.values():
+                raise ValueError(f"Linha {n} ({linha.get('id')}): número de colunas diferente do cabeçalho")
             linha["perguntas_exemplo"] = [
                 p.strip() for p in linha["perguntas_exemplo"].split("|") if p.strip()
             ]
