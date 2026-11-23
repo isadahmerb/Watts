@@ -29,20 +29,11 @@ MAX_PALAVRAS_FOLLOWUP = 5    # pergunta curta = provável continuação
 def _eh_followup(pergunta: str) -> bool:
     return len(pergunta.split()) <= MAX_PALAVRAS_FOLLOWUP
 
-
-def responder(pergunta: str, contexto_anterior: str | None = None) -> dict:
-    texto = normalizar(pergunta)
-    regras = [nome for nome, padrao in REGRAS if re.search(padrao, texto)]
-
-    consulta = pergunta
-    if USAR_CONTEXTO and contexto_anterior and _eh_followup(pergunta):
-        consulta = contexto_anterior + " " + pergunta
-
+def _decidir(consulta: str, regras: list) -> dict:
     (i1, s1), (i2, s2) = _modelo.buscar(preprocessar(consulta), k=2)
     margem = s1 - s2
     entrada = _base[i1]
     entrada2 = _base[i2]
-    # a dúvida só conta quando o 1º e o 2º são de intenções diferentes
     ambigua = margem < MARGEM and entrada["intencao"] != entrada2["intencao"]
 
     if s1 < LIMIAR or ambigua:
@@ -54,11 +45,25 @@ def responder(pergunta: str, contexto_anterior: str | None = None) -> dict:
         if regras:
             decisao, resposta = "resposta+aviso", resposta + AVISO
 
-    return {"pergunta": pergunta, "decisao": decisao, "id": entrada["id"],
-            "segundo": entrada2["id"],
-            "score": round(s1, 3), "margem": round(margem, 3),
-            "regras": regras, "resposta": resposta}
+    return {"decisao": decisao, "id": entrada["id"], "segundo": entrada2["id"],
+            "score": round(s1, 3), "margem": round(margem, 3), "resposta": resposta}
 
+
+def responder(pergunta: str, contexto_anterior: str | None = None) -> dict:
+    texto = normalizar(pergunta)
+    regras = [nome for nome, padrao in REGRAS if re.search(padrao, texto)]
+
+    r = _decidir(pergunta, regras)
+    usou_contexto = False
+
+    # contexto só entra como segunda tentativa, quando a pergunta sozinha não bastou
+    if (USAR_CONTEXTO and contexto_anterior and _eh_followup(pergunta)
+            and r["decisao"] == "fallback"):
+        r2 = _decidir(f"{pergunta} {pergunta} {contexto_anterior}", regras)
+        if r2["decisao"] != "fallback":
+            r, usou_contexto = r2, True
+
+    return {"pergunta": pergunta, **r, "regras": regras, "contexto": usou_contexto}
 
 if __name__ == "__main__":
     print("Watt (digite 'sair' para encerrar)")
