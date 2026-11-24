@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Watts</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <div id="app">
+
+    <img class="corner-bolt" src="../src/icon-mini.png" alt="Watts" />
+
+    <section id="welcome">
+      <img class="logo" src="../src/icon.png" alt="Watts" />
+      <p>Olá, qual sua dúvida hoje?</p>
+    </section>
+
+    <section id="messages" aria-live="polite"></section>
+
+    <form id="form" autocomplete="off">
+      <input id="input" type="text" placeholder="Digite aqui..." aria-label="Mensagem" />
+      <button id="send" type="submit" aria-label="Enviar">
+        <svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M12 19V5M5 12l7-7 7 7"/>
+        </svg>
+      </button>
+    </form>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
