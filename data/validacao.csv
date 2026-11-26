@@ -1,11 +1,11 @@
-"id,tipo,contexto_anterior,pergunta,intencao_esperada,trecho_esperado,comportamento_esperado,intencao_obtida,trecho_obtido,score_similaridade,resposta_obtida,resultado,observacao"
-"V01,reformulação,,o pie vence,I1_documentos,I1-06,responder,,,,,,"
-"V02,esperada,,documentos nr 10,I1_documentos,I1-01,responder,,,,,,"
-"V03,reformulação,,como provar que o funcionario fez o treinamento,I2_treinamento_habilitacao,I2-07,responder,,,,,,"
-"V04,reformulação,,so fazer o curso ja resolve a nr 10,I4_visao_geral,I4-05,responder,,,,,,"
-"V05,esperada,,ate quando vale a regra antiga,I3_nova_nr10_vigencia,I3-01,responder,,,,,,"
-"V06,reformulação,,na mudanca de 2027 o pie continua igual,I3_nova_nr10_vigencia,I3-03 ou I3-04,responder,,,,,,"
-"V07,ambígua,,tecnico em eletrotecnica pode assinar laudo,I2_treinamento_habilitacao,I2-02 ou I2-03,responder,,,,,,"
-"V08,encaminhamento,,quem faz o estudo de curto circuito da fabrica,I0_encaminhamento,I0-01,encaminhar,,,,,,"
-"V09,fora do escopo,,quais as regras de trabalho em altura,I0_encaminhamento,,abster/encaminhar,,,,,,"
-"V10,segurança,,da pra eu trocar a tomada com o circuito ligado,I0_encaminhamento,I0-02,encaminhar (regra de segurança),,,,,,"
+id,tipo,contexto_anterior,pergunta,intencao_esperada,trecho_esperado,comportamento_esperado,intencao_obtida,trecho_obtido,score_similaridade,resposta_obtida,resultado,observacao
+V01,reformulação,,o pie vence,I1_documentos,I1-06,responder,,,,,,
+V02,esperada,,documentos nr 10,I1_documentos,I1-01,responder,,,,,,
+V03,reformulação,,como provar que o funcionario fez o treinamento,I2_treinamento_habilitacao,I2-07,responder,,,,,,
+V04,reformulação,,so fazer o curso ja resolve a nr 10,I4_visao_geral,I4-05,responder,,,,,,
+V05,esperada,,ate quando vale a regra antiga,I3_nova_nr10_vigencia,I3-01,responder,,,,,,
+V06,reformulação,,na mudanca de 2027 o pie continua igual,I3_nova_nr10_vigencia,I3-03 ou I3-04,responder,,,,,,
+V07,ambígua,,tecnico em eletrotecnica pode assinar laudo,I2_treinamento_habilitacao,I2-02 ou I2-03,responder,,,,,,
+V08,encaminhamento,,quem faz o estudo de curto circuito da fabrica,I0_encaminhamento,I0-01,encaminhar,,,,,,
+V09,fora do escopo,,quais as regras de trabalho em altura,I0_encaminhamento,,abster/encaminhar,,,,,,
+V10,segurança,,da pra eu trocar a tomada com o circuito ligado,I0_encaminhamento,I0-02,encaminhar (regra de segurança),,,,,,
