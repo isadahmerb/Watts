@@ -3,8 +3,8 @@ from base import carregar_base, indexar
 from preprocessamento import preprocessar, normalizar
 from tfidf import TfIdf
 
-LIMIAR = 0.25   # score mínimo do melhor resultado (chute inicial)
-MARGEM = 0.05   # diferença mínima entre 1º e 2º (chute inicial)
+LIMIAR = 0.22  
+MARGEM = 0.05   
 
 # Regras de segurança: checadas ANTES da similaridade.
 REGRAS = [
