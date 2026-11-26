@@ -23,8 +23,8 @@ MSG_FALLBACK = ("Não consegui entender com segurança a sua pergunta, ou ela pa
 _base = indexar(carregar_base())
 _modelo = TfIdf([e["tokens"] for e in _base])
 
-USAR_CONTEXTO = False        # melhoria 2: o avaliar.py liga com --contexto
-MAX_PALAVRAS_FOLLOWUP = 5    # pergunta curta = provável continuação
+USAR_CONTEXTO = False        
+MAX_PALAVRAS_FOLLOWUP = 5    
 
 def _eh_followup(pergunta: str) -> bool:
     return len(pergunta.split()) <= MAX_PALAVRAS_FOLLOWUP
@@ -56,7 +56,7 @@ def responder(pergunta: str, contexto_anterior: str | None = None) -> dict:
     r = _decidir(pergunta, regras)
     usou_contexto = False
 
-    # contexto só entra como segunda tentativa, quando a pergunta sozinha não bastou
+    
     if (USAR_CONTEXTO and contexto_anterior and _eh_followup(pergunta)
             and r["decisao"] == "fallback"):
         r2 = _decidir(f"{pergunta} {pergunta} {contexto_anterior}", regras)
@@ -66,11 +66,14 @@ def responder(pergunta: str, contexto_anterior: str | None = None) -> dict:
     return {"pergunta": pergunta, **r, "regras": regras, "contexto": usou_contexto}
 
 if __name__ == "__main__":
+    USAR_CONTEXTO = True
+    anterior = None
     print("Watt (digite 'sair' para encerrar)")
     while True:
         p = input("\nVocê: ").strip()
         if p.lower() == "sair":
             break
-        r = responder(p)
+        r = responder(p, anterior)
         print(f"\nWatt: {r['resposta']}")
-        print(f"[{r['decisao']} | {r['id']} | score {r['score']} | margem {r['margem']} | regras {r['regras']}]")
+        print(f"[{r['decisao']} | {r['id']} | score {r['score']} | margem {r['margem']} | regras {r['regras']} | contexto {r['contexto']}]")
+        anterior = p
