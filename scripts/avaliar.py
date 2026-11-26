@@ -37,15 +37,24 @@ def intencao_obtida(r: dict, base_por_id: dict) -> str:
         return "I0_encaminhamento"
     return base_por_id[r["id"]]["intencao"]
 
+
 def main() -> None:
     nomes = [a for a in sys.argv[1:] if not a.startswith("--")]
     if not nomes:
-        sys.exit("Uso: python avaliar.py <rotulo> [--contexto]")
+        sys.exit("Uso: python avaliar.py <rotulo> [--contexto] [--limiar=0.25] [--testes=arquivo.csv]")
     rotulo = nomes[0]
+
     chatbot.USAR_CONTEXTO = "--contexto" in sys.argv
+    caminho = CAMINHO_TESTES
+    for a in sys.argv[1:]:
+        if a.startswith("--limiar="):
+            chatbot.LIMIAR = float(a.split("=", 1)[1])
+        elif a.startswith("--testes="):
+            caminho = RAIZ / "data" / a.split("=", 1)[1]
+
     base_por_id = {e["id"]: e for e in chatbot._base}
 
-    with open(CAMINHO_TESTES, encoding="utf-8-sig", newline="") as f:
+    with open(caminho, encoding="utf-8-sig", newline="") as f:
         leitor = csv.DictReader(f)
         campos = leitor.fieldnames
         casos = list(leitor)
@@ -78,9 +87,10 @@ def main() -> None:
     resp = [d for d in detalhes if d[3] == "responder"]
     nao_resp = [d for d in detalhes if d[3] != "responder"]
     trechos_ok = sum(1 for d in resp if d[6])
-    print(f"\n=== Avaliação '{rotulo}' | contexto={'ligado' if chatbot.USAR_CONTEXTO else 'desligado'} ===")
+    contexto = "ligado" if chatbot.USAR_CONTEXTO else "desligado"
+    print(f"\n=== Avaliação '{rotulo}' | contexto={contexto} | limiar={chatbot.LIMIAR} ===")
     print(f"Taxa de acerto geral (comportamento + intenção): {acertos}/{n} = {acertos/n:.1%}")
-    print(f"Trecho exato nas perguntas respondíveis:          {trechos_ok}/{len(resp)} = {trechos_ok/len(resp):.1%}")
+    print(f"Trecho exato nas perguntas respondíveis:          {trechos_ok}/{len(resp)} = {trechos_ok/max(len(resp), 1):.1%}")
     print(f"Comportamento correto nas fora de escopo/segurança/encaminhamento: "
           f"{sum(d[4] for d in nao_resp)}/{len(nao_resp)}")
     falsos_fallbacks = [d for d in resp if d[1]["decisao"] in ("fallback", "encaminhamento")]
@@ -89,6 +99,8 @@ def main() -> None:
     print(f"Respostas indevidas (deveria encaminhar/abster): {len(respostas_indevidas)}")
     taxa_enc = sum(d[1]["decisao"] in ("fallback", "encaminhamento") for d in detalhes) / n
     print(f"Taxa de encaminhamento/abstenção do bot: {taxa_enc:.1%}")
+    erradas_conf = [d for d in detalhes if d[1]["decisao"] in ("resposta", "resposta+aviso") and not d[7]]
+    print(f"Respostas erradas com confiança: {len(erradas_conf)}")
 
     # ---- por tipo
     print("\nAcerto por tipo de teste:")
